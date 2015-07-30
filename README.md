@@ -1,8 +1,8 @@
 # HTML-CSS Cheatsheets
 
-## Home
+### Home
 
-## Images
-## Web Forms
-## Responsive, adaptive and fluid design
+**Images**
+**Web Forms**
+**Responsive, adaptive and fluid design**
 
