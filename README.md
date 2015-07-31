@@ -1,19 +1,19 @@
 #HTML & CSS CheatSheets
 
-###[Home](https://github.com/Mullebrouck/1.-HTML-CSS/wiki)
-- **[Images](https://github.com/Mullebrouck/HTML-CSS/wiki/Images)**
-- **[Responsive, Adaptive and Fluid Design](https://github.com/Mullebrouck/HTML-CSS/wiki/Fluid,-Adaptive-and-Responsive-Design)**
-- **[Web Form](https://github.com/Mullebrouck/HTML-CSS/wiki/Web---Form)**
+###[Home](https://github.com/Mullebrouck/HTML-CSS/wiki/1.-Home)
+- **[Images](https://github.com/Mullebrouck/HTML-CSS/wiki/1.1-Images)**
+- **[Responsive, Adaptive and Fluid Design](https://github.com/Mullebrouck/HTML-CSS/wiki/1.2-Fluid,-Adaptive-and-Responsive-Design)**
+- **[Web Form](https://github.com/Mullebrouck/HTML-CSS/wiki/1.3-Web---Form)**
 
 ###HTML
-- **[HTML Elements](https://github.com/Mullebrouck/HTML-CSS/wiki/HTML5-Elements):**  _Section, Footer, Aside, Nav, Article, Main, Figure, Time_
-- **[HTML Email](https://github.com/Mullebrouck/HTML-CSS/wiki/HTML-Email)**
-- **[HTML Input Types](https://github.com/Mullebrouck/HTML-CSS/wiki/HTML5-Input-Types):**  _Input Types, Form Elements, Form Attributes_
-- **[HTML Tags](https://github.com/Mullebrouck/HTML-CSS/wiki/HTML5-Tags)**
+- **[HTML Elements](https://github.com/Mullebrouck/HTML-CSS/wiki/2.1-HTML5-Elements):**  _Section, Footer, Aside, Nav, Article, Main, Figure, Time_
+- **[HTML Email](https://github.com/Mullebrouck/HTML-CSS/wiki/2.2-HTML-Email)**
+- **[HTML Input Types](https://github.com/Mullebrouck/HTML-CSS/wiki/2.3-HTML5-Input-Types):**  _Input Types, Form Elements, Form Attributes_
+- **[HTML Tags](https://github.com/Mullebrouck/HTML-CSS/wiki/2.4-HTML5-Tags)**
 
 ###CSS
-- **[CSS Fonts and Interactions](https://github.com/Mullebrouck/HTML-CSS/wiki/CSS3-Fonts-and-Interactions):**  _Importing web font faces, Transform, Transition_
-- **[CSS Font Styles](https://github.com/Mullebrouck/HTML-CSS/wiki/CSS3-Font-Styles)**
-- **[CSS Properties](https://github.com/Mullebrouck/HTML-CSS/wiki/CSS3-Proporties):**  _Float, Inheritance & Specify, Overflow, Positioning, Box Model, Display and Margins_
-- **[CSS Pseudo Classes & Elements](https://github.com/Mullebrouck/HTML-CSS/wiki/CSS-Psuedo-Classes-&-Elements)**
-- **[CSS Styles](https://github.com/Mullebrouck/HTML-CSS/wiki/CSS3-Styles)**
+- **[CSS Fonts and Interactions](https://github.com/Mullebrouck/HTML-CSS/wiki/3.1-CSS3-Fonts-and-Interactions):**  _Importing web font faces, Transform, Transition_
+- **[CSS Font Styles](https://github.com/Mullebrouck/HTML-CSS/wiki/3.2-CSS-Font-Styles)**
+- **[CSS Properties](https://github.com/Mullebrouck/HTML-CSS/wiki/3.3-CSS3-Proporties):**  _Float, Inheritance & Specify, Overflow, Positioning, Box Model, Display and Margins_
+- **[CSS Pseudo Classes & Elements](https://github.com/Mullebrouck/HTML-CSS/wiki/3.4-CSS-Psuedo-Classes-&-Elements)**
+- **[CSS Styles](https://github.com/Mullebrouck/HTML-CSS/wiki/3.5-CSS3-Styles)**
