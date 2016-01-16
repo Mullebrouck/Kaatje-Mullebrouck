@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [HTML & CSS](html_&_css.md)
-   * [Images](images.md)
    * Setting up HTML file
+   * [Images](images.md)
 * Projects
 * Web Design
 
