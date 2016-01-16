@@ -11,7 +11,7 @@
        * [HTML Email](html_email.md)
        * [HTML Input Types](html_input_types.md)
        * [HTML Tags](html_tags.md)
-   * CSS
+   * [CSS](css.md)
 * Projects
 * Web Design
 
