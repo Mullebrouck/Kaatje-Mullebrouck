@@ -6,8 +6,8 @@
    * [Fluid, Adaptive and Responsive Design](fluid,_adaptive_and_responsive_design.md)
    * [Web Form](web_form.md)
    * [HTML](html.md)
+       * [Setting up HTML file](setting_up_html_file.md)
        * [HTML Elements](html_elements.md)
-* [Setting up HTML file](setting_up_html_file.md)
 * Projects
 * Web Design
 
