@@ -10,7 +10,7 @@
        * [HTML Elements](html_elements.md)
        * [HTML Email](html_email.md)
        * [HTML Input Types](html_input_types.md)
-       * HTML Tags
+       * [HTML Tags](html_tags.md)
 * Projects
 * Web Design
 
