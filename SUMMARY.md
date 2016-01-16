@@ -1,4 +1,5 @@
 # Summary
 
 * HTML & CSS
+* Projects
 
