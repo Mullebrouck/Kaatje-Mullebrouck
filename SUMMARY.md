@@ -9,7 +9,7 @@
        * [Setting up HTML file](setting_up_html_file.md)
        * [HTML Elements](html_elements.md)
        * [HTML Email](html_email.md)
-       * HTML Input Types
+       * [HTML Input Types](html_input_types.md)
 * Projects
 * Web Design
 
