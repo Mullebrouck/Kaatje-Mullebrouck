@@ -6,6 +6,7 @@
    * [Images](images.md)
    * [Fluid, Adaptive and Responsive Design](fluid,_adaptive_and_responsive_design.md)
    * [Web Form](web_form.md)
+   * HTML
 * Projects
 * Web Design
 
