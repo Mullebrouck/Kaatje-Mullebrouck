@@ -13,7 +13,7 @@
        * [HTML Tags](html_tags.md)
    * [CSS](css.md)
        * [CSS3 Fonts and Interactions](css3_fonts_and_interactions.md)
-       * CSS3 Font Styles
+       * [CSS3 Font Styles](css3_font_styles.md)
 * Projects
 * Web Design
 
