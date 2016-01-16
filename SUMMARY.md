@@ -12,7 +12,7 @@
        * [HTML Input Types](html_input_types.md)
        * [HTML Tags](html_tags.md)
    * [CSS](css.md)
-       * CSS3 Fonts and Interactions
+       * [CSS3 Fonts and Interactions](css3_fonts_and_interactions.md)
 * Projects
 * Web Design
 
