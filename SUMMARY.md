@@ -8,7 +8,7 @@
    * [HTML](html.md)
        * [Setting up HTML file](setting_up_html_file.md)
        * [HTML Elements](html_elements.md)
-       * HTML Email
+       * [HTML Email](html_email.md)
 * Projects
 * Web Design
 
