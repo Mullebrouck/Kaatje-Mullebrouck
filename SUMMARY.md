@@ -19,6 +19,7 @@
            * [Inheritance & Specifity](inheritance_&_specifity.md)
            * [Overflow](overflow.md)
            * [Positioning](positioning.md)
+           * Box Model
        * [CSS3 Psuedo Classes & Elements](css3_psuedo_classes_&_elements.md)
        * [CSS3 Styles](css3_styles.md)
    * [Motion](motion.md)
