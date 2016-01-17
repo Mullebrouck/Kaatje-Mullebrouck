@@ -100,6 +100,6 @@ transition: <property> <duration>;
 }
 ```
 
-[](codepen.io/Kaatje/RrLYMj)
+[](codepen://Kaatje/RrLYMj)
 
 
