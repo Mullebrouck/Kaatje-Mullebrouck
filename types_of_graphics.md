@@ -52,8 +52,8 @@ No animation
 Lossy compression: some pixels in original image are lost. When rendered by browser it will display similar, but not really the same.
 
 **Optimization** <br>
-Process of creating image with lowest file size, but still has a good quality. 
-- reduce amount of colors
+less compression: higher quality, larger filesize <br>
+more compression: lower quality, lower filesize
 
 **Interlacing** <br>
 Normally: Top of image displays in browser if 50% of picture is read. <br>
