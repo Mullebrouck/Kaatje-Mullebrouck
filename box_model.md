@@ -5,6 +5,8 @@
 - border = `border`
 - margin = `margin`
 - Box width = `content width + adding width + border width;`
+
+![](http://www.w3schools.com/css/box-model.gif)
  
 
 ---
@@ -52,3 +54,7 @@ shorthand Notation:
 ---
 
 ### Padding Properties
+
+`padding` property default = 0 
+
+>If you configure background color, color will be applied to padding and content area. 
