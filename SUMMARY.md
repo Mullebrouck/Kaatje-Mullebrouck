@@ -28,5 +28,6 @@
            * [Brand Brief](brand_brief.md)
            * [Logo Guidelines](logo_guidelines.md)
            * [Office Package](office_package.md)
+           * Signage
 * Web Design
 
