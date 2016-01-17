@@ -26,11 +26,37 @@ Process of creating image with lowest file size, but still has a good quality.
 - reduce amount of colors
 
 **Interlacing** <br>
-Normally: Top of image displays in browser if 50% of picture is read. 
+Normally: Top of image displays in browser if 50% of picture is read. <br>
+Interlaced image: progressively displays, seems to fade in as it downloads. 
+
+---
+
+
+### JPEG (Joint Photographic Experts Group)
+
+
+**Used:**
+
+- Photographs
+
+**Max Colors:** 16.7 million <br>
+**Extension:** .jpg or .jpeg 
+
+**Transparency** <br>
+No transparency
+
+**Animation** <br>
+No animation
+
+**compression** <br>
+Lossy compression: some pixels in original image are lost. When rendered by browser it will display similar, but not really the same.
+
+**Optimization** <br>
+Process of creating image with lowest file size, but still has a good quality. 
+- reduce amount of colors
+
+**Interlacing** <br>
+Normally: Top of image displays in browser if 50% of picture is read. <br>
 Interlaced image: progressively displays, seems to dafe in as it downloads. 
-
-
-
-
 
 
