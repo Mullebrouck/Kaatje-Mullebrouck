@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [HTML & CSS](html_&_css.md)
    * [Graphics](images.md)
+       * Cropping Images
    * [Fluid, Adaptive and Responsive Design](fluid,_adaptive_and_responsive_design.md)
    * [Web Form](web_form.md)
    * [HTML](html.md)
