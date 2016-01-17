@@ -31,5 +31,6 @@
            * [Signage](signage.md)
            * Menu
            * Package Design
+           * Advertisement
 * Web Design
 
