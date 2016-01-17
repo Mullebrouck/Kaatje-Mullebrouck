@@ -7,6 +7,9 @@
 - `border: width style color;`
 - `display: none / block / inline / inline-block;`
 
+
+---
+
 # Float
 
 `float:` = right, left or none
@@ -82,6 +85,10 @@ problems:
   <p> </p>
 </div>
 ```
+
+
+---
+
 
 # Inheritance & Specifity
 
@@ -200,7 +207,9 @@ shorthand Notation:
 }
 ```
 
-    
+### Padding Properties
+
+
 
 
 
