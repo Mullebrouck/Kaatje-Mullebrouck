@@ -23,6 +23,5 @@
        * [Planning Analysis Sheet](planning_analysis_sheet.md)
    * [Web Design](web_design.md)
        * [SV Techsol](sv_techsol.md)
-       * SV Techsol
 * Web Design
 
