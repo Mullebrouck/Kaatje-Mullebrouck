@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [HTML & CSS](html_&_css.md)
-   * [Images](images.md)
+   * [Graphics](images.md)
    * [Fluid, Adaptive and Responsive Design](fluid,_adaptive_and_responsive_design.md)
    * [Web Form](web_form.md)
    * [HTML](html.md)
