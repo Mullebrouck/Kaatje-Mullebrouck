@@ -99,6 +99,5 @@ transition: <property> <duration>;
     color: #e3e3e3;
 }
 ```
-[](codepen.io/Kaatje/RrLYMj)
 
 
