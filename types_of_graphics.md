@@ -54,9 +54,9 @@ Lossy compression: some pixels in original image are lost. When rendered by brow
 **Optimization** <br>
 less compression: higher quality, larger filesize <br>
 more compression: lower quality, lower filesize
+Fire Works and Photoshop are used often.
 
-**Interlacing** <br>
-Normally: Top of image displays in browser if 50% of picture is read. <br>
-Interlaced image: progressively displays, seems to dafe in as it downloads. 
+**Progressive JPEG** <br>
+Similar to interlaced image: progressively displays, seems to fade in as it downloads. 
 
 
