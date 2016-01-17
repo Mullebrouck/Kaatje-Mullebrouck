@@ -16,7 +16,7 @@ Original Button
 
 ### 1. Create 2 inner spans
 
-Holds current and additional information shown on button hover.
+Holds current and additional information shown on button hover:
 
 ```html
 <section>
@@ -29,6 +29,7 @@ Holds current and additional information shown on button hover.
 ```
 
 ### 2. Style initial and hover state
+
 Initial state:
 
 ```css
@@ -38,7 +39,18 @@ Initial state:
 .top {top:0;}
 .bottom {top: 100px;}
 ```
+>Always put in .bottom 100px, so you can't see it.
 
+Hover State:
 
+```css
+.btn {position: relative;}
+.content {position: absolute;}
+
+.top {top:0;}
+.btn:hover .top {top: -100px;}
+.bottom {top: 100px;}
+.bottom:hover .bottom {top:0px;}
+```
 
 
