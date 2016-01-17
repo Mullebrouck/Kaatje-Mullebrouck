@@ -22,7 +22,7 @@
        * [Transitions](transitions.md)
            * [Transitioning Color](transitioning_color.md)
            * [Transitioning Position](transitioning_position.md)
-           * Transitioning Visibility
+           * [Transitioning Visibility](transitioning_visibility.md)
 * [Projects](projects.md)
    * [Web Design](web_design.md)
        * [Care For Web Design](careforwebdesign.md)
