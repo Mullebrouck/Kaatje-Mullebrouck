@@ -24,6 +24,6 @@
            * [Planning Analysis Sheet](planning_analysis_sheet.md)
        * [SV Techsol](sv_techsol.md)
    * [Design](design.md)
-       * @Sea Branding
+       * [@Sea Branding](sea_branding.md)
 * Web Design
 
