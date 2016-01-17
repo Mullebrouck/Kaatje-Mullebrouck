@@ -20,7 +20,7 @@
    * [Motion](motion.md)
    * [Web Animations](web_animations.md)
        * [Transitions](transitions.md)
-           * Transitioning Color
+           * [Transitioning Color](transitioning_color.md)
 * [Projects](projects.md)
    * [Web Design](web_design.md)
        * [Care For Web Design](careforwebdesign.md)
