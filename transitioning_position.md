@@ -22,7 +22,7 @@ Holds current and additional information shown on button hover:
 <section>
     <a href="#" class="btn button">
         <span class="top-content">Top Content of btn </span>
-        <span class="bottom-content>Bottom Content btn </span>
+        <span class="bottom-content">Bottom Content btn </span>
     </a>
 </section>
     
@@ -41,7 +41,7 @@ Initial state:
 ```
 >Always put in .bottom 100px, so you can't see it.
 
-Hover State:
+Initial with Hover State:
 
 ```css
 .btn {position: relative;}
@@ -52,5 +52,23 @@ Hover State:
 .bottom {top: 100px;}
 .bottom:hover .bottom {top:0px;}
 ```
+
+
+### 3. Create transition between hover and state
+
+```css
+.btn {position: relative;}
+.content {position: absolute;}
+
+.top {top:0;}
+.btn:hover .top {top: -100px;}
+.bottom {top: 100px;}
+.bottom:hover .bottom {top:0px;}
+.content {
+    position: relative;
+```
+
+
+
 
 
