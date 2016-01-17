@@ -58,3 +58,9 @@ shorthand Notation:
 `padding` property default = 0 
 
 >If you configure background color, color will be applied to padding and content area. 
+
+    padding-bottom
+    padding-left
+    padding-right
+    padding-top
+
