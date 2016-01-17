@@ -19,6 +19,7 @@
        * [CSS3 Styles](css3_styles.md)
    * [Motion](motion.md)
    * [Web Animations](web_animations.md)
+       * Transitions
 * [Projects](projects.md)
    * [Web Design](web_design.md)
        * [Care For Web Design](careforwebdesign.md)
