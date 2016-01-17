@@ -5,7 +5,7 @@
    * [Graphics](images.md)
        * [Cropping Images](cropping_images.md)
        * [Replacement Images](replacement_images.md)
-       * Sprites
+       * [Sprites](sprites.md)
    * [Fluid, Adaptive and Responsive Design](fluid,_adaptive_and_responsive_design.md)
    * [Web Form](web_form.md)
    * [HTML](html.md)
