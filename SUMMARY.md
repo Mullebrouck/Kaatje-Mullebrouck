@@ -20,6 +20,6 @@
    * [Motion](motion.md)
 * [Projects](projects.md)
    * [SV Techsol](sv_techsol.md)
-   * [CareForWebDesign](careforwebdesign.md)
+   * [Care For Web Design](careforwebdesign.md)
 * Web Design
 
