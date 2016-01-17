@@ -21,8 +21,8 @@
 * [Projects](projects.md)
    * [Care For Web Design](careforwebdesign.md)
        * [Planning Analysis Sheet](planning_analysis_sheet.md)
-   * [SV Techsol](sv_techsol.md)
    * [Web Design](web_design.md)
+       * [SV Techsol](sv_techsol.md)
        * SV Techsol
 * Web Design
 
