@@ -23,5 +23,6 @@
        * [Care For Web Design](careforwebdesign.md)
            * [Planning Analysis Sheet](planning_analysis_sheet.md)
        * [SV Techsol](sv_techsol.md)
+   * Design
 * Web Design
 
