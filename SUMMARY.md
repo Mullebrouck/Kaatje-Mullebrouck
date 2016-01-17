@@ -25,6 +25,6 @@
        * [SV Techsol](sv_techsol.md)
    * [Design](design.md)
        * [@Sea Branding](sea_branding.md)
-           * Brand Brief
+           * [Brand Brief](brand_brief.md)
 * Web Design
 
