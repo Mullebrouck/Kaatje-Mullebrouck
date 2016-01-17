@@ -36,10 +36,8 @@ Initial Modal State: Hidden
 }
 ```
 
->Not al properties can be transitioned in css, so do not use display: none;  it will remove your element. 
+>Not al properties can be transitioned in CSS, so do not use display: none;  it will remove your element. 
 
-Opacity: 0;  —> Hides element, but element still takes up same width and height +
-Visibility: hidden; (Makes element transparent to click events)
 
 ```css
 .modal,
