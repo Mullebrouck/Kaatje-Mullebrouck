@@ -30,5 +30,6 @@
            * [Office Package](office_package.md)
            * [Signage](signage.md)
            * Menu
+           * Package Design
 * Web Design
 
