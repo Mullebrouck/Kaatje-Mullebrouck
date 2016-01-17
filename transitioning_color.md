@@ -46,7 +46,7 @@ Duration = period of time
     background-color: #007DA7;
 }
 ```
-[](codepen://Kaatje/pen/RrLYMj)
+[](codepen://Kaatje/pen/RrLYMj?editors=110)
 
 >To make transition we add in .btn
 ```
