@@ -1,6 +1,6 @@
 # Images
 
-# content images
+# Content Images
 - Actual images on page that are necessary
 - display logo/site
 (put them in one folder)
@@ -33,7 +33,7 @@ padding: 0;
 ```
 
 
-# layout images  
+# Layout Images  
 - part of background to make layout nicer
 - only added in CSS
 
@@ -104,7 +104,7 @@ example:
 }
 ```
 
-# user interface images
+# User Interface Images
 - help to understand the content of the page
 
 # Cropping Images
