@@ -27,5 +27,6 @@
        * [@Sea Branding](sea_branding.md)
            * [Brand Brief](brand_brief.md)
            * [Logo Guidelines](logo_guidelines.md)
+           * Office Package
 * Web Design
 
