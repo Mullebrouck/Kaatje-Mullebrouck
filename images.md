@@ -1,5 +1,3 @@
-# Images
-
 # Content Images
 - Actual images on page that are necessary
 - display logo/site
