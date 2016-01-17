@@ -92,5 +92,19 @@ transition: <property> <duration>;
 
 ### Transitioning All Properties
 
+> Use the “all” as property, BUT every property that can animate will animate
+
+```css
+.btn {
+    background-color: #00A0D6;
+    color: #FFFFFF;
+    transition: all 0.4s;
+}
+.btn:hover {
+    background-color: #007DA7;
+    color: #e3e3e3;
+}
+```
+
 
 
