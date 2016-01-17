@@ -6,67 +6,62 @@
 Original Button
 
 ```html
-<section>
-    <a href="#" class="btn button">
-    Text for Button
+    <a href="#" class="container">
+     Text for Button
     </a>
-</section>
-    
 ```
 
-### 1. Create 2 inner spans
+### Create 2 inner divs
 
 Holds current and additional information shown on button hover:
 
 ```html
-<section>
-    <a href="#" class="btn button">
-        <span class="top-content">Top Content of btn </span>
-        <span class="bottom-content">Bottom Content btn </span>
-    </a>
-</section>
+<a href="#" class="container">
+  <div class="content red">Red</div>
+  <div class="content yellow">Yellow</div>
+</a>
     
 ```
 
-### 2. Style initial and hover state
-
-Initial state:
+### Create transition between hover and state
 
 ```css
-.btn {position: relative;}
-.content {position: absolute;}
+.container {
+/*   overflow: hidden; */
+  height: 30px;
+  background-color: green;
+  display: inline-block;
+  width: 120px;
+  background-color: green;
+  position: relative;
+}
 
-.top {top:0;}
-.bottom {top: 100px;}
-```
->Always put in .bottom 100px, so you can't see it.
-
-Initial with Hover State:
-
-```css
-.btn {position: relative;}
-.content {position: absolute;}
-
-.top {top:0;}
-.btn:hover .top {top: -100px;}
-.bottom {top: 100px;}
-.bottom:hover .bottom {top:0px;}
-```
-
-
-### 3. Create transition between hover and state
-
-```css
-.btn {position: relative;}
-.content {position: absolute;}
-
-.top {top:0;}
-.btn:hover .top {top: -100px;}
-.bottom {top: 100px;}
-.bottom:hover .bottom {top:0px;}
 .content {
-    position: relative;
+    position: absolute;
+    transition: top 0.3s;
+    line-height: 30px;
+    width: 120px;
+    text-align: center;
+}
+
+.red {
+  top: 0px;
+  background-color: red;
+}
+
+.container:hover .red {
+  top: -30px;
+}
+
+.yellow {
+  top: 30px;
+  background-color: yellow;
+}
+.container:hover .yellow {
+  top: 0px;
+}
 ```
+[](codepen:Kaatje/pen/GoMXwd)
 
 
 
