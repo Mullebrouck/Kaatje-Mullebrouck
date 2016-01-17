@@ -15,7 +15,7 @@
        * [CSS3 Fonts and Interactions](css3_fonts_and_interactions.md)
        * [CSS3 Font Styles](css3_font_styles.md)
        * [CSS3 Proporties](css3_proporties.md)
-           * Float
+           * [Float](float.md)
        * [CSS3 Psuedo Classes & Elements](css3_psuedo_classes_&_elements.md)
        * [CSS3 Styles](css3_styles.md)
    * [Motion](motion.md)
