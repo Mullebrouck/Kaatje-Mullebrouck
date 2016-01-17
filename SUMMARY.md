@@ -19,6 +19,6 @@
        * [CSS3 Styles](css3_styles.md)
    * [Motion](motion.md)
 * [Projects](projects.md)
-   * SV Techsol
+   * [SV Techsol](sv_techsol.md)
 * Web Design
 
