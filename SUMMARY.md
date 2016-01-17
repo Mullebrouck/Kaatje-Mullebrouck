@@ -18,6 +18,7 @@
            * [Float](float.md)
            * [Inheritance & Specifity](inheritance_&_specifity.md)
            * [Overflow](overflow.md)
+           * Positioning
        * [CSS3 Psuedo Classes & Elements](css3_psuedo_classes_&_elements.md)
        * [CSS3 Styles](css3_styles.md)
    * [Motion](motion.md)
