@@ -29,5 +29,6 @@
            * [Logo Guidelines](logo_guidelines.md)
            * [Office Package](office_package.md)
            * [Signage](signage.md)
+           * Menu
 * Web Design
 
