@@ -1,2 +1,1 @@
-# Logo Guidelines
-
+![](Logo Guidelines.png)
