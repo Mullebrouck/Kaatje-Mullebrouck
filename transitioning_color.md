@@ -46,6 +46,8 @@ Duration = period of time
     background-color: #007DA7;
 }
 ```
+[](codepen://Kaatje/pen/RrLYMj)
+
 >To make transition we add in .btn
 ```
 transition: <property> <duration>;
