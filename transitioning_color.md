@@ -33,7 +33,7 @@ Duration = period of time
 
 
 ```html
-   < a href="#" class="btn" >
+   <a href="#" class="btn" >
    Text for Button 
    </a>
 ```
@@ -100,6 +100,6 @@ transition: <property> <duration>;
 }
 ```
 
-[](codepen://Kaatje/RrLYMj)
+[](codepen://Kaatje/KVXGwK)
 
 
