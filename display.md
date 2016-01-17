@@ -11,7 +11,7 @@
 - declare width less than parent
 - set `margin: 0 auto;`
 
-
+---
 ###inline element
 - found within block - elements
 - take up space of content
@@ -21,6 +21,8 @@
 
 **centering**
 - set `text-align: center;`
+
+---
 
 ###inline-block element
 - not by default, needs to be applied
