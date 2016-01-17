@@ -61,7 +61,7 @@ Holds current and additional information shown on button hover:
   top: 0px;
 }
 ```
-[](codepen:Kaatje/pen/GoMXwd)
+[](codepen://Kaatje/GoMXwd)
 
 
 
