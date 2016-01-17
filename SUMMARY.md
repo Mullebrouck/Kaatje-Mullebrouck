@@ -24,7 +24,7 @@
            * [Transitioning Position](transitioning_position.md)
            * [Transitioning Visibility](transitioning_visibility.md)
        * [Transforming](transforming.md)
-           * Transforming Rotating
+           * [Transforming Rotating](transforming_rotating.md)
 * [Projects](projects.md)
    * [Web Design](web_design.md)
        * [Care For Web Design](careforwebdesign.md)
