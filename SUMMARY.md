@@ -19,9 +19,9 @@
        * [CSS3 Styles](css3_styles.md)
    * [Motion](motion.md)
 * [Projects](projects.md)
+   * [SV Techsol](sv_techsol.md)
    * [Care For Web Design](careforwebdesign.md)
        * [Planning Analysis Sheet](planning_analysis_sheet.md)
-   * [SV Techsol](sv_techsol.md)
    * [Web Design](web_design.md)
 * Web Design
 
