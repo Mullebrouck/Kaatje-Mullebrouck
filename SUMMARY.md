@@ -26,6 +26,6 @@
    * [Design](design.md)
        * [@Sea Branding](sea_branding.md)
            * [Brand Brief](brand_brief.md)
-           * Logo Guidelines
+           * [Logo Guidelines](logo_guidelines.md)
 * Web Design
 
