@@ -111,3 +111,28 @@ Changes to be committed:
  1 file changed, 10 insertions(+)
  create mode 100644 index.html
  ```
+
+**12. Type** `git status`
+
+`➜  SVTechsol git:(initial) git status`
+
+```
+On branch initial
+Your branch is ahead of 'origin/initial' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
+```
+
+**13. Type** `git log`
+
+`➜  SVTechsol git:(initial) git log`
+
+
+**14. Type** `git push origin branchname`
+
+`➜  SVTechsol git:(initial) git push origin initial`
+
+Now your files are saved in Github.com
+
+
