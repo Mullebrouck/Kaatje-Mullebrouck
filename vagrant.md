@@ -127,6 +127,7 @@ nothing to commit, working directory clean
 **13. Type** `git log`
 
 `➜  SVTechsol git:(initial) git log`
+To check if the commit is done. (press `q` to leave window) 
 
 
 **14. Type** `git push origin branchname`
