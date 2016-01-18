@@ -52,6 +52,6 @@
            * [Advertisement](advertisement.md)
            * [Website](website.md)
 * [Development Tools](development_tools.md)
-   * Vagrant
+   * [Vagrant](vagrant.md)
 * Web Design
 
