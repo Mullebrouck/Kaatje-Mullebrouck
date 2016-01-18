@@ -59,4 +59,42 @@ Fire Works and Photoshop are used often.
 **Progressive JPEG** <br>
 Similar to interlaced image: progressively displays, seems to fade in as it downloads. 
 
+---
+
+### Portable Network Graphic (PNG)
+
+**Used:**
+
+- combination of GIF and JPEG
+
+**Max Colors:** millions <br>
+**Extension:** .png
+
+**Transparency** <br>
+Support various transparency levels
+
+**Animation** <br>
+No animation
+
+**compression** <br>
+uses lossless compression
+
+
+**Interlacing** <br>
+Supports interlacing
+
+---
+
+### WebP Images (Google)
+
+**Used:**
+
+- Photographic Images
+- Only supported by Google Chrome
+
+**Max Colors:** millions <br>
+
+
+**compression** <br>
+Uses lossy compression for photographic images
 
