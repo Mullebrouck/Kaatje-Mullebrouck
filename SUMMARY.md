@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * Development Tools
 * [HTML & CSS](html_&_css.md)
    * [Graphics](images.md)
        * [Types of Graphics](types_of_graphics.md)
@@ -52,5 +51,6 @@
            * [Package Design](package_design.md)
            * [Advertisement](advertisement.md)
            * [Website](website.md)
+* Development Tools
 * Web Design
 
