@@ -53,5 +53,6 @@
            * [Website](website.md)
 * [Development Tools](development_tools.md)
    * [Vagrant](vagrant.md)
+   * Git
 * Web Design
 
