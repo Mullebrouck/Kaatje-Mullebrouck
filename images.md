@@ -105,3 +105,13 @@ example:
 # User Interface Images
 - help to understand the content of the page
 
+```html
+<figure>
+    <img src="" alt="" height="" width="">
+    <figcaption>Caption under or above picture
+    </figcaption>
+</figure>
+```
+
+Using `<div>` is to generic, so when you have an image it is better to wrap them in `<figure>` and within `<figure>` add `<figcaption>`.
+
