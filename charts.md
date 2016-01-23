@@ -15,7 +15,7 @@
 
 ###Progress Element
 
-[](codepen://Kaatje/KVQWNy
+[](codepen://Kaatje/WrMpRO)
 
 ```html
 <h1> Progress Report </h1>
