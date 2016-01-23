@@ -12,3 +12,10 @@
 <meter value="312" min="0" max="14417">312</meter>&nbsp;&nbsp; 312 Opera <br>
 <meter value="200" min="0" max="14417">200</meter> &nbsp;&nbsp;200 Other <br>
 ```
+
+###Progress Element
+
+```html
+<h1> Progress Report </h1>
+<progress value="5" max="10">50%</progress>Progress Toward Our Goal
+```
