@@ -1,6 +1,6 @@
 ###Meter Element
 
-http://codepen.io/Kaatje/pen/MKQpeV
+[](codepen://Kaatje/MKQpeV)
 
 ```html
 <h1> Browser Report </h1>
