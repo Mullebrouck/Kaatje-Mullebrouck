@@ -2,6 +2,8 @@
 
 ###Input Types
 
+[](codepen://Kaatje/GoQQov)
+
 **Search Input**
 
 ```html
