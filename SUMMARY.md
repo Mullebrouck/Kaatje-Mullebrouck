@@ -35,7 +35,7 @@
            * [Background-Clip Property](background-clip_property.md)
            * [Background-Origin property](background-origin_property.md)
            * [Background-Size Property](background-size_property.md)
-           * Corners
+           * [Corners](corners.md)
    * [Motion](motion.md)
    * [Web Animations](web_animations.md)
        * [Transitions](transitions.md)
