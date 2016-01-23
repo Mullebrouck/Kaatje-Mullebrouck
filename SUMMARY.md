@@ -34,6 +34,7 @@
        * [Visual Effects](visual_effects.md)
            * [Background-Clip Property](background-clip_property.md)
            * [Background-Origin property](background-origin_property.md)
+           * Background-Size Property
    * [Motion](motion.md)
    * [Web Animations](web_animations.md)
        * [Transitions](transitions.md)
