@@ -7,7 +7,7 @@
        * [Cropping Images](cropping_images.md)
        * [Replacement Images](replacement_images.md)
        * [Sprites](sprites.md)
-       * Charts
+       * [Charts](charts.md)
    * [Fluid, Adaptive and Responsive Design](fluid,_adaptive_and_responsive_design.md)
    * [Web Form](web_form.md)
    * [HTML](html.md)
