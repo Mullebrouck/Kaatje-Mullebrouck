@@ -33,7 +33,7 @@
        * [CSS3 Styles](css3_styles.md)
        * [Visual Effects](visual_effects.md)
            * [Background-Clip Property](background-clip_property.md)
-           * Background-Origin property
+           * [Background-Origin property](background-origin_property.md)
    * [Motion](motion.md)
    * [Web Animations](web_animations.md)
        * [Transitions](transitions.md)
