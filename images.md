@@ -9,6 +9,13 @@
 
 * Always "inline" level (_Can't be centered with text-align_)
 
+> Naming image file:
+- Lowercase letters
+- No puntuation or spaces
+- don't change file extension
+- files names = short, but descriptive
+
+
 **To center:**
 
 ```css
