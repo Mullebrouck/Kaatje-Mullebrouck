@@ -16,6 +16,7 @@ save as a "favicon.ico"
 - href = name of image
 - type = MIME type of image (image/x-icon)
 
+>Goes into the <head> section 
 
 ```html
 <link 
