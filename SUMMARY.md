@@ -9,6 +9,7 @@
        * [Sprites](sprites.md)
        * [Charts](charts.md)
        * [Image Maps](image_maps.md)
+       * Favicon
    * [Fluid, Adaptive and Responsive Design](fluid,_adaptive_and_responsive_design.md)
    * [Web Form](web_form.md)
    * [HTML](html.md)
