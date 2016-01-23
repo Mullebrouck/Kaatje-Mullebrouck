@@ -1,6 +1,6 @@
 ## Background-Clip Property
 
-= confines the display of background image with the values: 
+= **confines the display of background image with the values:** 
 
 - content-box (display area behind content)
 - padding-box (display area behind content and padding)
@@ -25,7 +25,7 @@ Example:
 
 ## Background-Origin Property
 
-= positions the background image using the values:
+= **positions the background image using the values:**
 
 - content-box (positions relative to area)
 - padding-box (default; position relative to padding area)
@@ -47,7 +47,21 @@ Example:
     border: 1px dashed #000;
 }
 ```
-> No effect when backgroun-image property is set to fixed!
+> No effect when background-image property is set to fixed!
+
+___
+
+## Background-Size Property
+
+= **used to resize or scale background-image with values:**
+
+- Both percentage values for weight and height
+- Both pixel values for weight and height
+- cover (completely cover area --> Looks at smallest size to cover)
+- contain (completely one area --> Looks at biggest size to cover)
+
+
+
 
 
 
