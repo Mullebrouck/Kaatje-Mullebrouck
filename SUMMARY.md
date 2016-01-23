@@ -8,7 +8,7 @@
        * [Replacement Images](replacement_images.md)
        * [Sprites](sprites.md)
        * [Charts](charts.md)
-       * Image Maps
+       * [Image Maps](image_maps.md)
    * [Fluid, Adaptive and Responsive Design](fluid,_adaptive_and_responsive_design.md)
    * [Web Form](web_form.md)
    * [HTML](html.md)
