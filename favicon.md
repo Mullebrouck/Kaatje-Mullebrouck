@@ -33,4 +33,11 @@ Also add this <link> for IE
 
 ```
 
+To create your favicon:
+
+- http://favicon.cc
+- http://www.favicongenerator.com
+- http://www.freefavicon.com
+- http://www.xiconeditor.com
+
 
