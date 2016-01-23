@@ -7,6 +7,8 @@ The terminal is also known as the **command-line** or the abbreviation **CLI**.
 
 To run the Vagrant Machine you have to be in the directory where the Vagrant Machine is located:
 
+**Copy this line into your Vagrant Machine:**
+
 `cd /Users/kaatje/Documents/Development/CuadranteWeb`
 
 `cd` = change directory
