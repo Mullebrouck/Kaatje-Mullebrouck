@@ -1,5 +1,8 @@
 # Sprites
 
+= **image file that contains multiple small graphics**
+
+
 ```html
 <a href="#" class="CLASSNAME"> Place text from image in here </a>
 ```
