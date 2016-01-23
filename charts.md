@@ -15,6 +15,8 @@
 
 ###Progress Element
 
+[](codepen://Kaatje/KVQWNy
+
 ```html
 <h1> Progress Report </h1>
 <progress value="5" max="10">50%</progress>Progress Toward Our Goal
