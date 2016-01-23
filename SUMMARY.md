@@ -32,7 +32,7 @@
        * [CSS3 Psuedo Classes & Elements](css3_psuedo_classes_&_elements.md)
        * [CSS3 Styles](css3_styles.md)
        * [Visual Effects](visual_effects.md)
-           * Background-Clip Property
+           * [Background-Clip Property](background-clip_property.md)
    * [Motion](motion.md)
    * [Web Animations](web_animations.md)
        * [Transitions](transitions.md)
