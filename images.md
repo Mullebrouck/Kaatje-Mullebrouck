@@ -38,7 +38,11 @@ padding: 0;
 ```
 
 
-# Layout Images  
+
+---
+
+
+# Layout & Background Images  
 - part of background to make layout nicer
 - only added in CSS
 
@@ -47,14 +51,27 @@ background-color: (_needs to be set in case image does not load_)
 background-image: url(PATH TO IMAGE FILE);
 background-position: *first word*: top,center or bottom *Second word*: left, center or right;
 background-repeat: repeat;
+background-attachment: fixed or scroll
 ```
 
-**other values:**
+**other values for background-repeat:**
 
 - repeat-x: tile image horizontally
 - repeat-y: tile image vertically
 - no-repeat: don't repeat anything
+- space: repeat image in background without clipping
+- round: repeat image in background and scales (adjust) dimension of image to avoid clipping
 
+**other values for background-position:**
+(in pixels or percentage)
+
+- left
+- top
+- cener
+- bottom
+
+**background-attachment:** <br>
+To configure if image remains fixed or scrolls along with the page. 
 
 ### Or put background in one line:
 
@@ -83,7 +100,7 @@ Create empty div container that contains background and put text tags in it.
   background: COLOR IMAGE POSITION REPEAT;
 }
 ```
-
+___
 
 # Floating images
 - used when you want to put text and images next to each other
@@ -108,6 +125,7 @@ example:
   padding-right: 10px; (to make sure you have some space between image and text)
 }
 ```
+___
 
 # User Interface Images
 - help to understand the content of the page
