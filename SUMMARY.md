@@ -38,7 +38,7 @@
            * [Borders](borders.md)
            * [Box-Shadow Property](box-shadow_property.md)
            * [Opacity Property](opacity_property.md)
-           * Gradients
+           * [Gradients](gradients.md)
    * [Motion](motion.md)
    * [Web Animations](web_animations.md)
        * [Transitions](transitions.md)
