@@ -63,9 +63,9 @@
            * [Package Design](package_design.md)
            * [Advertisement](advertisement.md)
            * [Website](website.md)
-* [Web Design Foundations](web_design_foundations.md)
 * [Development Tools](development_tools.md)
    * [Vagrant](vagrant.md)
    * [Git](git.md)
    * [React](react.md)
+* [Web Design Foundations](web_design_foundations.md)
 
