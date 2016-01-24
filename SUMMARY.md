@@ -37,7 +37,7 @@
            * [Background-Size Property](background-size_property.md)
            * [Borders](borders.md)
            * [Box-Shadow Property](box-shadow_property.md)
-           * Opacity Property
+           * [Opacity Property](opacity_property.md)
    * [Motion](motion.md)
    * [Web Animations](web_animations.md)
        * [Transitions](transitions.md)
