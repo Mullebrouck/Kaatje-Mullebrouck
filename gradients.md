@@ -39,6 +39,7 @@ body {
     background-color: #8FA5CE;
     background-image: -webkit-linear-gradient(#FFFFFF, #8FA5CE);
     filter: progid:DXImageTransfrom.microsoft.gradient(startColorstr=#FFFFFFFF; endColorstr=#FF8FA5CE);
-    background-image: linear-gradient(to bottom,#FFFFFF, #8FA5CE); 
+    background-image: linear-gradient( to bottom, #FFFFFF, #8FA5CE); 
 }
 ```
+
