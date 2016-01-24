@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * Web Design Foundations
+   * [Web Design Foundations](web_design_foundations.md)
 * [HTML & CSS](html_&_css.md)
    * [Graphics](images.md)
        * [Types of Graphics](types_of_graphics.md)
