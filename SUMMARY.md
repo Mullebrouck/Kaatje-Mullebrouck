@@ -67,5 +67,4 @@
    * [Vagrant](vagrant.md)
    * [Git](git.md)
    * [React](react.md)
-* Web Design
 
