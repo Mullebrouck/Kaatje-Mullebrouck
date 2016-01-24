@@ -72,4 +72,5 @@
    * [Principles of Visual Design](principles_of_visual_design.md)
    * [Providing Accessability](providing_accessability.md)
    * [writing for web](writing_for_web.md)
+   * Use of Colors
 
