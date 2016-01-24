@@ -10,7 +10,7 @@
        * [Charts](charts.md)
        * [Image Maps](image_maps.md)
        * [Favicon](favicon.md)
-       * Image hyperlinks
+       * [Image hyperlinks](image_hyperlinks.md)
    * [Fluid, Adaptive and Responsive Design](fluid,_adaptive_and_responsive_design.md)
    * [Web Form](web_form.md)
    * [HTML](html.md)
