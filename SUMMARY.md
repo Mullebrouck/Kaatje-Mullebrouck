@@ -66,6 +66,6 @@
 * [Development Tools](development_tools.md)
    * [Vagrant](vagrant.md)
    * [Git](git.md)
-   * React
+   * [React](react.md)
 * Web Design
 
