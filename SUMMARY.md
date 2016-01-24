@@ -70,7 +70,6 @@
 * [Web Design Foundations](web_design_foundations.md)
    * [Website Organization](website_organization.md)
    * [Principles of Visual Design](principles_of_visual_design.md)
-       * Use of Color
    * [Providing Accessability](providing_accessability.md)
    * [writing for web](writing_for_web.md)
 
