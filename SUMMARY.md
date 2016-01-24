@@ -69,4 +69,5 @@
    * [React](react.md)
 * [Web Design Foundations](web_design_foundations.md)
    * [Website Organization](website_organization.md)
+   * Principles of Visual Design
 
