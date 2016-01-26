@@ -85,4 +85,5 @@
        * [White Space](white_space.md)
        * [Screen Resolution](screen_resolution.md)
    * [Page Layout](page_layout.md)
+       * Wireframes
 
