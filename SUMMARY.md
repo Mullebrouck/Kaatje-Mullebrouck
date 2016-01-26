@@ -73,7 +73,7 @@
    * [Providing Accessability](providing_accessability.md)
    * [Graphics & Multimedia](graphics_&_multimedia.md)
    * [writing for web](writing_for_web.md)
-       * Navigation Design
+       * [Navigation Design](navigation_design.md)
    * [Use of Colors](use_of_colors.md)
        * [Color Wheel](color_wheel.md)
        * [Different Color Schemes](different_color_schemes.md)
