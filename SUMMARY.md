@@ -78,5 +78,5 @@
        * [Implementing Color Scheme](implementing_color_scheme.md)
        * [Accessibility and Color](accessibility_and_color.md)
        * [Colors and Target Audience](colors_and_target_audience.md)
-   * Graphics & Multimedia
+   * [Graphics & Multimedia](graphics_&_multimedia.md)
 
