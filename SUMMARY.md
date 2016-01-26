@@ -71,6 +71,7 @@
    * [Website Organization](website_organization.md)
    * [Principles of Visual Design](principles_of_visual_design.md)
    * [Providing Accessability](providing_accessability.md)
+   * [Navigation Design](navigation_design.md)
    * [Graphics & Multimedia](graphics_&_multimedia.md)
    * [writing for web](writing_for_web.md)
        * [Navigation Design](navigation_design.md)
