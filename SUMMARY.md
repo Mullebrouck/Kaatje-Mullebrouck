@@ -74,4 +74,5 @@
    * [writing for web](writing_for_web.md)
    * [Use of Colors](use_of_colors.md)
        * [Color Wheel](color_wheel.md)
+       * Different Color Schemes
 
