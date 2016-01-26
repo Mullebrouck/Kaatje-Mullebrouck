@@ -71,6 +71,7 @@
    * [Website Organization](website_organization.md)
    * [Principles of Visual Design](principles_of_visual_design.md)
    * [Providing Accessability](providing_accessability.md)
+   * [Graphics & Multimedia](graphics_&_multimedia.md)
    * [writing for web](writing_for_web.md)
    * [Use of Colors](use_of_colors.md)
        * [Color Wheel](color_wheel.md)
@@ -78,5 +79,4 @@
        * [Implementing Color Scheme](implementing_color_scheme.md)
        * [Accessibility and Color](accessibility_and_color.md)
        * [Colors and Target Audience](colors_and_target_audience.md)
-   * [Graphics & Multimedia](graphics_&_multimedia.md)
 
