@@ -76,5 +76,5 @@
        * [Color Wheel](color_wheel.md)
        * [Different Color Schemes](different_color_schemes.md)
        * [Implementing Color Scheme](implementing_color_scheme.md)
-       * Accessibility and Color
+       * [Accessibility and Color](accessibility_and_color.md)
 
