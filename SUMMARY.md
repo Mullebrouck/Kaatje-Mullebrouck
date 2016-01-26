@@ -80,4 +80,5 @@
        * [Accessibility and Color](accessibility_and_color.md)
        * [Colors and Target Audience](colors_and_target_audience.md)
    * [Design Considerations](design_considerations.md)
+       * Load Time
 
