@@ -75,5 +75,5 @@
    * [Use of Colors](use_of_colors.md)
        * [Color Wheel](color_wheel.md)
        * [Different Color Schemes](different_color_schemes.md)
-       * Implementing Color Scheme
+       * [Implementing Color Scheme](implementing_color_scheme.md)
 
