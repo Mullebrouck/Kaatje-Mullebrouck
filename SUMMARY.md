@@ -84,5 +84,5 @@
        * [Load Time](load_time.md)
        * [White Space](white_space.md)
        * [Screen Resolution](screen_resolution.md)
-   * Page Layout
+   * [Page Layout](page_layout.md)
 
