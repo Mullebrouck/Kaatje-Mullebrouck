@@ -11,9 +11,27 @@
 
 ---
 
+## Content Properties
+
+- Combination of text and web page elements
+- visible width of element = total content width + padding width + border width
+- `width` property only configures width of content
 
 
-### Border Properties
+## Padding Properties
+
+`padding` property default = 0 
+
+>If you configure background color, color will be applied to padding and content area. 
+
+    padding-bottom
+    padding-left
+    padding-right
+    padding-top
+
+
+## Border Properties
+
 
 `border` property default = 0 (does not display)
     
@@ -53,14 +71,17 @@ shorthand Notation:
 ```
 ---
 
-### Padding Properties
+## margin
 
-`padding` property default = 0 
+- determines empty space between element and adjacent elements
 
->If you configure background color, color will be applied to padding and content area. 
+### Margin Properties
 
-    padding-bottom
-    padding-left
-    padding-right
-    padding-top
+- configure margins on all sides of the element
+- always transparent
+- use property to overwrite defaults
+- use px or em
+
+> To eliminate: `0`
+> 
 
