@@ -3,7 +3,7 @@
 - often used to clear a float
 - configures how content should display if it is too large for area 
 
-###Properties
+##Properties
 
 `overflow: visible auto hidden scroll;`
 
@@ -14,3 +14,15 @@
 
 - `overflow-x`
 - `overflow-y`
+
+## Clear float
+
+= similar ass the line break
+
+```css
+div {
+    background-color: #F3F1BF;
+    overflow: auto;
+    width: 100%;
+}
+```
