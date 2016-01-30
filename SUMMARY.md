@@ -49,7 +49,7 @@
        * [Transforming](transforming.md)
            * [Transforming Rotating](transforming_rotating.md)
    * [Page Layout](page_layout_column.md)
-   * Navigation
+   * [Navigation](navigation.md)
 * [Projects](projects.md)
    * [Web Design](web_design.md)
        * [Care For Web Design](careforwebdesign.md)
