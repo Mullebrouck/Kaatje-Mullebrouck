@@ -3,6 +3,7 @@
 
 - `float:` = right, left or none
 - Specify `width` for floating element, unless it is already specified like an `<img>` 
+- key element for multicolumn page layout
 
 
 ---
