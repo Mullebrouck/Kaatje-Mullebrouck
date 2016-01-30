@@ -2,7 +2,7 @@
 # Float
 
 - `float:` = right, left or none
-- Specify `width` for floating element, unless it is already specified like. 
+- Specify `width` for floating element, unless it is already specified like an `<img>` 
 
 
 ---
@@ -16,7 +16,21 @@
 
 `clear:` = right, left or both
 
+**Clear float with a Line Break**
 
+- common technique to clear flowt within container element:
+ ```css
+ .clearleft {
+    clear:left;
+    }
+ ```
+ ```html
+ <div>
+    <img class="float" src="yls.jpg" alt="Yellow Lady Slipper" height="100" width="100">
+    <p> The Yellow Lady Slipper grows in wooded areas and blooms in June each year. The flower is a member of the orchid family. </p>
+    <br class="clearleft">
+ </div>
+ ```
 
 **Subsequent Element**
 
