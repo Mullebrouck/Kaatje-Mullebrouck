@@ -30,6 +30,7 @@
            * [Inheritance & Specifity](inheritance_&_specifity.md)
            * [Margins](margins.md)
            * [Positioning](positioning.md)
+           * Lists
        * [CSS3 Psuedo Classes & Elements](css3_psuedo_classes_&_elements.md)
        * [CSS3 Styles](css3_styles.md)
        * [Visual Effects](visual_effects.md)
