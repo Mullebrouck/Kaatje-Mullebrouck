@@ -41,6 +41,7 @@
            * [Box-Shadow Property](box-shadow_property.md)
            * [Colors and Opacity](color-opacitymd.md)
            * [Gradients](gradients.md)
+       * Pseudo-classes
    * [Motion](motion.md)
    * [Web Animations](web_animations.md)
        * [Transitions](transitions.md)
