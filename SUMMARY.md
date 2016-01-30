@@ -46,7 +46,7 @@
        * [Image Maps](image_maps.md)
        * [Favicon](favicon.md)
        * [Image hyperlinks](image_hyperlinks.md)
-       * Image Gallery
+       * [Image Gallery](image_gallery.md)
    * [Web Animations](web_animations.md)
        * [Transitions](transitions.md)
            * [Transitioning Color](transitioning_color.md)
