@@ -4,37 +4,46 @@
 - configuring navigation with a list, provides accessibility. 
 - Try not to use `<br>`
 
-##Unordered list
+##Vertical Navigation with unordered list
 
-- will show a disc mark
-- use `list-style-property` to configure style of list marker
+1. Write the HTML
+2. Configure CSS
+3. Remove Underline with CSS
 
-### list-style-type Property
+**Write the HTML**
 
-- `none` = no display 
-- `disc` = circle 
-- `circle` = open circle
-- `square` = square
-- `decimal` = decimal numbers
-- `upper-alpha` = uppercase letters
-- `lower-alpha` = lowercase letters
-- `lower-roman` = lowercase roman numerals
+```html
+<ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="menu.html">Menu</a></li>
+    <li><a href="product.html">Product</a></li>
+    <li><a href="Contact.html">Contact</a></li>
+</ul>
+```
 
-### list-style-image Property
+**Configure CSS**
 
-- will replace bullet points into image
-- as value you use: The url keyword with parenthesis surrounding filename or path for the image. 
-
-Example: 
 ```css
-ul { 
-    list-style-image: url(filename);
+nav ul {
+    list-style-type: none; //takes list markers away
 }
 ```
 
-### list-style-position Property
+**Remove Underline with CSS**
 
-- placement of list markers
-- `inside` = markers are indented
-- `outside` = default, default placement
+```css
+nav ul {
+    list-style-type: none; 
+}
+nav a {
+    text-decoration: none; //takes the underline away
+}
+```
+___
+
+##Horizontal Navigation with unordered list
+
+1. Write HTML
+2. Configure with CSS
+
 
