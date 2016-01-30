@@ -8,8 +8,6 @@
 
 ---
 
-
-
 ### Clearing float
 
 - if floated item is taller than non-floated content
