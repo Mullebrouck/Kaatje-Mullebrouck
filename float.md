@@ -1,7 +1,8 @@
 
 # Float
 
-`float:` = right, left or none
+- `float:` = right, left or none
+- Specify `width` for floating element, unless it is already specified like. 
 
 
 ---
