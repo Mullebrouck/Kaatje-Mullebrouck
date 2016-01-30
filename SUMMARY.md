@@ -48,7 +48,7 @@
            * [Transitioning Visibility](transitioning_visibility.md)
        * [Transforming](transforming.md)
            * [Transforming Rotating](transforming_rotating.md)
-   * Page Layout
+   * [Page Layout](page_layout_column.md)
 * [Projects](projects.md)
    * [Web Design](web_design.md)
        * [Care For Web Design](careforwebdesign.md)
