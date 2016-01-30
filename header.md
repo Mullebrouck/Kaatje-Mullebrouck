@@ -8,3 +8,30 @@
     - Use `text-indent` property to configure placement of `<h1>` text outside of the browser viewport (Most Commonly Used: `text-indent: -9999px;`
 
 
+- sometimes issue on mobile devices, fix with: 
+
+ ```css
+ h1 {
+    text-indent: 100%; /*Instead of -9999*/
+    white-space: nowrap;
+    overflow: hidden;
+ }
+ ```
+ Example: 
+ 
+ ```CSS
+ 
+ header {
+    height: 150px;
+    margin-bottom: 10px;
+    background-image: url(banner.jpg);
+    background-repeat: no-repeat;
+ } 
+ 
+  h1 {
+    text-indent: 100%; /*Instead of -9999*/
+    white-space: nowrap;
+    overflow: hidden;
+ }
+ 
+ ```
