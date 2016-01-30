@@ -65,7 +65,12 @@ Make it:
 
 ##Aside
 
-Not exactly related to content, but expand the content. 
+Not exactly related to content, but expand the content.
+Could be sidebar or other tangential content. 
+
+- header, footer, section, aside, figure, div,
+
+
 - within `<article>`, `<aside>` should be related to that article
 - outside `<article>`, `<aside>` should be related to the site (ex. sidebar)
 
@@ -136,8 +141,10 @@ Figcaption = caption or legend for `<figure>`
 
 ##Time
 
+- represent date or time 
 
 ```html
 <time datetime="yyy-mm-dd">mm/dd/yyyy</time>
+<time datetime="HH:MM">time (24hours) </time>
 ```
 
