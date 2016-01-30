@@ -1,8 +1,21 @@
 # HTML Elements
 
-**Section**
+- Section
+- Header
+- Footer
+- Aside
+- Nav
+- Article
+- Main
+- Figure/Figcaption
+- Time
 
-if all content is related to each other, you can put it in a section instead of div:
+
+##Section
+
+if all content is related to each other, you can put it in a section instead of div: Like a chapter or topic. 
+
+- header, footer, section, article, aside, figure, div, ...
 
 Instead of: 
 ```html
@@ -19,7 +32,7 @@ Make it:
 Note: _Outline will not change when you use `<h1>` inside of the `<section>`_
 
 
-**Header**
+##Header
 
 Instead of: 
 ```html
@@ -35,7 +48,7 @@ Make it:
 ```
 Note: _You can have multiple header elements, even in `<section>`_
 
-**Footer**
+##Footer
 
 Instead of: 
 ```html
@@ -50,7 +63,7 @@ Make it:
 </footer>
 ```
 
-**Aside**
+##Aside
 
 Not exactly related to content, but expand the content. 
 - within `<article>`, `<aside>` should be related to that article
@@ -62,7 +75,7 @@ Not exactly related to content, but expand the content.
 </aside>
 ```
 
-**Nav**
+##Nav
 
 Section with navigation links --> used for major navigation
 
@@ -74,12 +87,14 @@ Section with navigation links --> used for major navigation
 </nav>
 ```
 
-**Article** 
+##Article 
 
 - blog post
 - news story
 - comment post
 - review 
+
+- header, footer, section, aside, figure, div,
 
 ```html
 <article>
@@ -88,7 +103,7 @@ Section with navigation links --> used for major navigation
 ```
 
 
-**Main**
+##Main
 
 Main content of your document
 
@@ -101,8 +116,7 @@ Main content of your document
 </main>
 ```
 
-
-**Figure/Figcaption**
+##Figure/Figcaption
 
 Common use `<figure>`: for image within `<article>`
 ```html
@@ -120,7 +134,7 @@ Figcaption = caption or legend for `<figure>`
 </figure>
 ```
 
-**Time**
+##Time
 
 
 ```html
