@@ -31,7 +31,7 @@
            * [Colors and Opacity](color-opacitymd.md)
            * [Gradients](gradients.md)
        * [Pseudo-classes](pseudo-classes.md)
-       * Debugging
+       * [Debugging](debugging.md)
    * [Navigation](navigation.md)
    * [header](header.md)
    * [Web Form](web_form.md)
