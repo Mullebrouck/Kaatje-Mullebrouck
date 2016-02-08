@@ -228,3 +228,131 @@ label {
 ```
 
 
+---
+
+Now we will add our **loading-spinner** into our **HTML** and **CSS** file.
+
+**HTML File**
+```HTML
+<form class="subscription">
+  <label>Subscribe</label>
+  <input class="text" type="email" placeholder="Enter email address">
+  <input class="button" type="submit" value="Click to submit">
+</form>
+
+<div class="loading-spinner"> </div>
+```
+**CSS File**
+```css
+.loading-spinner {
+    animation: spinner 0.5s infinite linear;
+    border: 5px solid #FFB43B;
+    border-radius: 100%;
+    border-left-color:#F6C068;
+    border-bottom-color: #F3D19A;
+    border-right-color: transparent;
+    height: 15px;
+    width: 15px;
+}
+
+@keyframes spinner {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.subscription {
+  background-color: #6D6963;
+  border-radius: 5%;
+  height:200px;
+  text-align: center;
+  width: 300px;
+}
+
+label {
+  color: #FCF8F1;
+  display: block;
+  font-family: Avenir;
+  font-weight: bold;
+  font-size: 30px;
+  padding-top: 30px;
+}
+
+.text {
+  border-radius: 5%;
+  height: 20px;
+  margin: 20px;
+  text-align: center;
+  width: 200px;
+}
+
+.button {
+  background-color: #FFB43B;
+  border-radius: 5%;
+  color: #6D6963;
+  display: block;
+  font-family: Avenir;
+  font-weight: bold;
+  font-size: 10x;
+  height: 25px;
+  margin: 0 auto;
+  width: 120px;
+}
+```
+
+What should result like this:
+![](Screen Shot 2016-02-07 at 10.16.31 PM.png)
+
+
+---
+
+We can see in our example image that our **loading-spinner** is now displayed **underneath** the form. We want to add the `.loading-spinner.` div inside our `form`. 
+
+**HTML File**
+```HTML
+<form class="subscription">
+  <div class="loading-spinner"> </div>
+  <label>Subscribe</label>
+  <input class="text" type="email" placeholder="Enter email address">
+  <input class="button" type="submit" value="Click to submit">
+</form>
+```
+
+
+You can now see that the `.loading-spinner.` is now displayed in the left upper corner. 
+
+![](Screen Shot 2016-02-07 at 10.16.48 PM.png)
+
+
+---
+
+
+
+Now we will add some styles in our CSS so we can center our `.loading-spinner.` in the middle of our form. We also want to add a `position: absolute` so we can move the `class` without pushing it's siblings. 
+
+```CSS
+.loading-spinner {
+    left: 150px;
+    position: absolute;
+    top: 100px;
+    
+    animation: spinner 0.5s infinite linear;
+    border: 5px solid #FFB43B;
+    border-radius: 100%;
+    border-left-color:#F6C068;
+    border-bottom-color: #F3D19A;
+    border-right-color: transparent;
+    height: 15px;
+    width: 15px;
+}
+```
+
+Your form should look similar like this: 
+
+![](Screen Shot 2016-02-07 at 11.01.50 PM.png)
+
+
+---
+
+We don't want to see our **loading-spinner**
+
