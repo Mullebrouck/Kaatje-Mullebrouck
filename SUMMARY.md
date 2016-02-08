@@ -55,6 +55,7 @@
            * [Transitioning Visibility](transitioning_visibility.md)
        * [Transforming](transforming.md)
            * [Transforming Rotating](transforming_rotating.md)
+       * Loading-spinner
 * [Projects](projects.md)
    * [Web Design](web_design.md)
        * [Care For Web Design](careforwebdesign.md)
