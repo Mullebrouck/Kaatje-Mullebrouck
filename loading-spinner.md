@@ -166,3 +166,65 @@ Now we want to implement this **animation** into our `loading-spinner` class, we
 Now our animation is complete. To see an **example** of this **loading-spinner** you can look at my codepen: http://codepen.io/Kaatje/pen/Bjqggd?editors=1100
 
 ---
+Now we want to add this animation to our webpage. 
+In this tutorial, we will add the **loading-spinner**, when we click the **submit button** for our form. In this form the user will have to enter his/her email address.
+
+Lets take a look at our `form`:
+
+![](Screen Shot 2016-02-07 at 10.19.53 PM.png)
+
+When the user **clicks** on the submit button, the **loader-spinner** will shown until the submitting is complete and the page is refreshed. 
+
+**HTML File**
+
+```html
+<form class="subscription">
+  <label>Subscribe</label>
+  <input class="text" type="email" placeholder="Enter email address">
+  <input class="button" type="submit" value="Click to submit">
+</form>
+```
+
+**CSS File**
+
+```css
+.subscription {
+  background-color: #6D6963;
+  border-radius: 5%;
+  height:200px;
+  text-align: center;
+  width: 300px;
+}
+
+label {
+  color: #FCF8F1;
+  display: block;
+  font-family: Avenir;
+  font-weight: bold;
+  font-size: 30px;
+  padding-top: 30px;
+}
+
+.text {
+  border-radius: 5%;
+  height: 20px;
+  margin: 20px;
+  text-align: center;
+  width: 200px;
+}
+
+.button {
+  background-color: #FFB43B;
+  border-radius: 5%;
+  color: #6D6963;
+  display: block;
+  font-family: Avenir;
+  font-weight: bold;
+  font-size: 10x;
+  height: 25px;
+  margin: 0 auto;
+  width: 120px;
+}
+```
+
+
