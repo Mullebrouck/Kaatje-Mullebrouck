@@ -153,7 +153,7 @@ Now we want to implement this **animation** into our `loading-spinner` class, we
     border-left-color:#F6C068;
     border-bottom-color: #F3D19A;
     border-right-color: transparent;
-    animation: spin 0.5s infinite linear;
+    animation: spinner 0.5s infinite linear;
 }
 
 @keyframes spinner {
