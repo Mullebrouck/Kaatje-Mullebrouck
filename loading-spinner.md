@@ -371,10 +371,12 @@ We only want to see our **loading-spinner** when the form is being submitted, so
     border-right-color: transparent;
     height: 15px;
     width: 15px;
-}![](Screen Shot 2016-02-07 at 11.06.12 PM.png)
+}
 ```
 
-Now our **loading-spinner** is not displayed anymore. 
+Now our **loading-spinner** is not displayed anymore.
+
+
 
 
 
