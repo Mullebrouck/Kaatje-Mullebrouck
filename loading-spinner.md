@@ -110,7 +110,7 @@ In this step we will apply the **animation** by using the `@` rule with `keyfram
 
 
 ```css
-.laoding-spinner {
+.loading-spinner {
     height: 50px;
     width: 50px;
     border: 5px solid #FFB43B;
@@ -145,7 +145,7 @@ We want our `loading-spinner` to spin from 0-100% so we will have to add a **360
 Now we want to implement this **animation** into our `loading-spinner` class, we do this by adding the `animation` property. We also need to add the **name of the animation**, the **time** the animation needs to complete, how many times the animation will **repeat** and a **type**. 
 
 ```css
-.laoding-spinner {
+.loading-spinner {
     height: 50px;
     width: 50px;
     border: 5px solid #FFB43B;
