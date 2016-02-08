@@ -374,9 +374,9 @@ We only want to see our **loading-spinner** when the form is being submitted, so
 }
 ```
 
-Now our **loading-spinner** is not displayed anymore.
+Now our **loading-spinner** is not displayed anymore. 
 
-
+![](Screen Shot 2016-02-07 at 11.06.12 PM.png)
 
 
 
