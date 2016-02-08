@@ -384,6 +384,8 @@ Now our **loading-spinner** is not displayed anymore.
 
 There are two ways to add our JavaScript file into our html. We can embedd
 
+http://codepen.io/Kaatje/pen/Bjqggd
+
 
 
 
