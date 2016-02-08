@@ -167,13 +167,13 @@ Now our animation is complete. To see an **example** of this **loading-spinner**
 
 ---
 Now we want to add this animation to our webpage. 
-In this tutorial, we will add the **loading-spinner**, when we click the **submit button** for our form. In this form the user will have to enter his/her email address.
+In this tutorial, we will add and display the **loading-spinner** when we click the **submit button** in our form. In this form the user will have to enter his/her email address.
 
 Lets take a look at our `form`:
 
 ![](Screen Shot 2016-02-07 at 10.19.53 PM.png)
 
-When the user **clicks** on the submit button, the **loader-spinner** will shown until the submitting is complete and the page is refreshed. 
+When the user **clicks** on the submit button, the **loader-spinner** will shown until the submitting is complete and the page refreshes. 
 
 **HTML File**
 
@@ -301,12 +301,13 @@ label {
 ```
 
 What should result like this:
+
 ![](Screen Shot 2016-02-07 at 10.16.31 PM.png)
 
 
 ---
 
-We can see in our example image that our **loading-spinner** is now displayed **underneath** the form. We want to add the `.loading-spinner.` div inside our `form`. 
+We can see in our example image that our **loading-spinner** is now displayed **underneath** the form. We want to add the `.loading-spinner` div inside our `form`. 
 
 **HTML File**
 ```HTML
@@ -319,7 +320,7 @@ We can see in our example image that our **loading-spinner** is now displayed **
 ```
 
 
-You can now see that the `.loading-spinner.` is now displayed in the left upper corner. 
+You can now see that the `.loading-spinner` is now displayed in the upper left corner. 
 
 ![](Screen Shot 2016-02-07 at 10.16.48 PM.png)
 
@@ -328,7 +329,7 @@ You can now see that the `.loading-spinner.` is now displayed in the left upper 
 
 
 
-Now we will add some styles in our CSS so we can center our `.loading-spinner.` in the middle of our form. We also want to add a `position: absolute` so we can move the `class` without pushing it's siblings. 
+Now we will add some styles in our CSS so we can center our `.loading-spinner` in the middle of our form. We also want to add a `position: absolute` so we can move the `class` without pushing it's siblings. 
 
 ```CSS
 .loading-spinner {
@@ -354,7 +355,7 @@ Your form should look similar like this:
 
 ---
 
-We only want to see our **loading-spinner** when the form is being submitted, so we will have to add a few lines of **Javascript**. But first lets add `diplay:none;` to our `.loading-spinner`class styles.
+We only want to see our **loading-spinner** when the form is being submitted, so we will have to add a few lines of **JavaScript**. But first lets add `diplay:none;` to our `.loading-spinner`class styles.
 
 ```CSS
 .loading-spinner {
@@ -377,6 +378,11 @@ We only want to see our **loading-spinner** when the form is being submitted, so
 Now our **loading-spinner** is not displayed anymore. 
 
 ![](Screen Shot 2016-02-07 at 11.06.12 PM.png)
+
+
+---
+
+There are two ways to add our JavaScript file into our html. We can embedd
 
 
 
