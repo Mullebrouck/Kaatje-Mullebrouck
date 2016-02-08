@@ -354,5 +354,28 @@ Your form should look similar like this:
 
 ---
 
-We don't want to see our **loading-spinner**
+We only want to see our **loading-spinner** when the form is being submitted, so we will have to add a few lines of **Javascript**. But first lets add `diplay:none;` to our `.loading-spinner`class styles.
+
+```CSS
+.loading-spinner {
+    display: none;
+    left: 150px;
+    position: absolute;
+    top: 100px;
+    
+    animation: spinner 0.5s infinite linear;
+    border: 5px solid #FFB43B;
+    border-radius: 100%;
+    border-left-color:#F6C068;
+    border-bottom-color: #F3D19A;
+    border-right-color: transparent;
+    height: 15px;
+    width: 15px;
+}![](Screen Shot 2016-02-07 at 11.06.12 PM.png)
+```
+
+Now our **loading-spinner** is not displayed anymore. 
+
+
+
 
