@@ -169,10 +169,6 @@ Lets take a look at our `form`:
 
 When the user **clicks** on the submit button, the **loader-spinner** will show until the form is finished with submitting the data and the browser has refreshed the page.  
 
-
-
-the browser is the one who refreshes the page after the form finishes submitting the data
-
 **HTML File to create the form**
 
 ```html
@@ -305,7 +301,7 @@ What should result like this:
 
 ---
 
-We can see in our example image that our **loading-spinner** is now displayed **underneath** the form. We want to add the `.loading-spinner` div inside our `form`. 
+We can see in our example image that our **loading-spinner** is now displayed **underneath** the form. We want to add the `.loading-spinner` `div` inside our `form`. 
 
 **HTML File**
 ```HTML
@@ -318,7 +314,7 @@ We can see in our example image that our **loading-spinner** is now displayed **
 ```
 
 
-You can now see that the `.loading-spinner` is now displayed in the upper left corner. 
+You can now see that the **loading-spinner** is now displayed in the upper left corner. 
 
 ![](Screen Shot 2016-02-07 at 10.16.48 PM.png)
 
