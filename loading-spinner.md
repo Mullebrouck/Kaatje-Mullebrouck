@@ -382,7 +382,59 @@ Now our **loading-spinner** is not displayed anymore.
 
 ---
 
-There are two ways to add our JavaScript file into our html. We can embedd
+There are **two ways** to add our **JavaScript** file into our HTML. 
+- We can use a `<script> </script>` tag in our `<head>`:  
+
+```html
+<!DOCKTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <title>Loading-Spinner</title>
+        <link rel="stylesheet" href="spinner.css">
+        <script>
+            Add here your JavaScript
+        </script>
+    </head>
+    <body>
+        <div class="loading-spinner"> </div>
+    </body>
+</html>
+
+```
+
+- or we can add a `.js` file, dont forget to add the `</script>` closing tag:
+
+```html
+<!DOCKTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <title>Loading-Spinner</title>
+        <link rel="stylesheet" href="spinner.css">
+        <script src="file.js"> </script>
+    </head>
+    <body>
+        <div class="loading-spinner"> </div>
+    </body>
+</html>
+
+```
+
+
+---
+Now we are ready to write our **JavaScript**. 
+
+- In our first line we want to **create a variable** that will point to the **submit button**. 
+- In our second line we want to **create a variable** that will point to the **form**.
+- Now we want to **create** a new class `loading`. We will set the button to **add** this class `loading` to the form when the button is clicked. When you add the `loading` class the CSS will display the `**loading-spinner** untill submitting is complete & will refresh the page.
+
+```j
+var submitbutton = document.querySelector('.button');
+var form = document.querySelector('.subscription');
+submitbutton.onclick = function (){
+  form.classList.add('loading')
+}
+```
+
 
 http://codepen.io/Kaatje/pen/Bjqggd
 
