@@ -173,7 +173,7 @@ When the user **clicks** on the submit button, the **loader-spinner** will show 
 
 the browser is the one who refreshes the page after the form finishes submitting the data
 
-**HTML File**
+**HTML File to create the form**
 
 ```html
 <form class="subscription">
@@ -183,7 +183,7 @@ the browser is the one who refreshes the page after the form finishes submitting
 </form>
 ```
 
-**CSS File**
+**CSS File to create the form**
 
 ```css
 .subscription {
