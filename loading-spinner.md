@@ -109,16 +109,6 @@ In this step we will apply the **animation** by using the `@` rule with `keyfram
 
 
 ```css
-.loading-spinner {
-    height: 50px;
-    width: 50px;
-    border: 5px solid #FFB43B;
-    border-radius: 100%;
-    border-left-color:#F6C068;
-    border-bottom-color: #F3D19A;
-    border-right-color: transparent;
-}
-
 @keyframes spinner {
 
 }
