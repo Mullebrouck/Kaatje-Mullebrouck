@@ -323,7 +323,7 @@ You can now see that the **loading-spinner** is now displayed in the upper left 
 
 
 
-Now we will add some styles in our CSS so we can center our `.loading-spinner` in the middle of our form. We also want to add a `position: absolute` so we can move the `class` without pushing it's siblings. 
+Now we will add some styles in our CSS so we can center our **loading-spinner** in the middle of our form. We also want to add a `position: absolute` so we can move the `class` without pushing its siblings. 
 
 ```CSS
 .loading-spinner {
