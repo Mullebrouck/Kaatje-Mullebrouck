@@ -153,13 +153,11 @@ Now we want to implement this **animation** into our `loading-spinner` class, we
 }
 ```
 
-
-
 Now our animation is complete. To see an **example** of this **loading-spinner** you can look at my codepen: http://codepen.io/Kaatje/pen/Bjqggd?editors=1100
 
 ---
 
-## Adding the loading spinner into a form
+## Adding the Loading Spinner into a Form
 
 
 Now we want to add this animation to our webpage. 
