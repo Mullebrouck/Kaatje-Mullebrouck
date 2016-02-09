@@ -449,9 +449,23 @@ To make sure our **loading-spinner** displays we need to add the new class `load
 }
 ```
 
-Now our **loading-spinner** is ready to display once the sub
+
+---
+
+
+
+Now our **loading-spinner** is **ready to display** once the submit button is clicked. 
+
+
+
+To see an **example** of this you can surf to the following link and check out my codepen. 
 http://codepen.io/Kaatje/pen/Bjqggd
 
+---
+
+
+
+---
 
 
 
