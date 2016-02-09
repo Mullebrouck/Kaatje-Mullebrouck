@@ -42,7 +42,7 @@ Open your **spinner.css** file and add your `loading-spinner` class.
 
 ---
 
-In this step we will add a border that helps create the shape of the spinner. We will need to add  a `height` and  a `width` into the class. This will define how big your **loading-spinner** will be. Add also a `border`.
+In this step we will add a `border` that helps to create the shape of the spinner. We will need to add  a `height` and  a `width` into the class. This will define how big your **loading-spinner** will be.
 
 ```css
 .loading-spinner {
