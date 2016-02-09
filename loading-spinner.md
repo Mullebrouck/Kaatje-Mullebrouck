@@ -73,7 +73,7 @@ Now we want to change the border into a **circular shape**. We can do this by ad
 }
 ```
 
-Now we have a circular border:
+Now we have a circular shape:
 
 ![](Screen Shot 2016-02-07 at 8.15.38 PM.png)
 
