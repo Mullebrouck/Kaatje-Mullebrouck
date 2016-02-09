@@ -167,7 +167,11 @@ Lets take a look at our `form`:
 
 ![](Screen Shot 2016-02-07 at 10.19.53 PM.png)
 
-When the user **clicks** on the submit button, the **loader-spinner** will shown until the submitting is complete and the page refreshes. 
+When the user **clicks** on the submit button, the **loader-spinner** will show until the form is finished with submitting the data and the broswer has refreshed the page.  
+
+
+
+the browser is the one who refreshes the page after the form finishes submitting the data
 
 **HTML File**
 
