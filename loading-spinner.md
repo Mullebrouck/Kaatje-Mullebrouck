@@ -79,12 +79,12 @@ Now we have a circular shape:
 
 ---
 
-We are going to change our `border-color`, so when it spins you will see a **gradient effect**. 
+We are going to change our `border-color`, so when the spinner spins you will see a **gradient trail**. 
 
-- leave the original color at the `top`
-- create slightly lighter color for the `left`
-- create lighter color for the `bottom`
-- make `right`color `tranpsarent`
+- leave the original color at the `border-top`
+- create slightly lighter color for the `border-left`
+- create lighter color for the `border-bottom`
+- make `border-right`color `tranpsarent`
 
 
 ```css
