@@ -131,7 +131,8 @@ We want our `loading-spinner` to spin from "0" being the start of the animation 
 
 ---
 
-Now we want to implement this **animation** into our `loading-spinner` class, we do this by adding the `animation` property. We also need to add the **name of the animation**, the **time** the animation needs to complete, how many times the animation will **repeat** and a **type**. 
+Now we want to implement this **animation** into our `loading-spinner` class, we do this by adding the `animation` property. We also need to add the **name of the animation**, the **time** the animation needs to complete one loop or circle, how many times the animation will **repeat** and the acceleration **type**. For this example we choose a **linear** type, so the speed thoughout the animation won't change. 
+
 
 ```css
 .loading-spinner {
