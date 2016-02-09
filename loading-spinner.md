@@ -427,7 +427,10 @@ Now we are ready to write our **JavaScript**.
 - In our second line we want to **create a variable** that will point to the **form**.
 - Now we want to **create** a new class `loading`. We will set the button to **add** this class `loading` to the form when the button is clicked. When you add the `loading` class the CSS will display the `**loading-spinner** untill submitting is complete & will refresh the page.
 
-```j
+
+JavaScript: 
+
+```js
 var submitbutton = document.querySelector('.button');
 var form = document.querySelector('.subscription');
 submitbutton.onclick = function (){
