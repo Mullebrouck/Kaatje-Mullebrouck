@@ -114,11 +114,11 @@ In this step we will apply the **animation** by using the `@` rule with `keyfram
 }
 ```
 
-In some cases you have to install a **CSS pre-fix**. You can check the website http://caniuse.com/ to see with browser support these pre-fixes and for which browsers you still need to **implement** them.  In this case, all the browsers support the `@keyframes` rule. 
+In some cases you have to install a **CSS pre-fix**. You can check the website http://caniuse.com/ to see which browser supports these CSS features, and which need pre-fixes to run in experimental mode because they don't officially support the feature yet. In this case, all the browsers support the `@keyframes` rule.  
 
 ---
 
-We want our `loading-spinner` to spin from 0-100% so we will have to add a **360 degrees rotation** in our animation. 
+We want our `loading-spinner` to spin from "0" being the start of the animation to 100% what indicates the end of the animation. We also want to add a **360 degrees rotation** in our animation. 
 
 ```css 
 @keyframes spinner {
