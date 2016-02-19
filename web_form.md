@@ -40,7 +40,7 @@ Without using the mouse you can access different forms by using command+"letter 
 <input type="submit"> submit button
 ```
 More input types: 
-
+[](https://kaatje.gitbooks.io/kaatje-mullebrouck/content/html_input_types.html)
 
 
 **Multiple lines of text:**
