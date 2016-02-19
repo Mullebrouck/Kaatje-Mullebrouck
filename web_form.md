@@ -60,13 +60,14 @@ Without using the mouse you can access different forms by using command+"letter 
        id="colors"
        list-"colors">
 <select size="4" id="color">
-  <option value="red">
-  <option value="green">
-  <option value="blue">
-  <option value="yellow">
+  <option value="red">red</option>
+  <option value="green">green</option>
+  <option value="blue">blue</option>
+  <option value="yellow">yelllow</option>
 </select>
     
 ```
+[](codepen://Kaatje/LGoLqj)
 
 **different input types: **
 
