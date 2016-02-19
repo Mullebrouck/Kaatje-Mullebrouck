@@ -10,6 +10,9 @@
 </form>
 ```
 
+**Using fieldset and legend elements**
+
+[](codepen://Kaatje/GbEyRej)
 
 **different input types: **
 
