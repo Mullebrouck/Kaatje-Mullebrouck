@@ -20,6 +20,15 @@
 <input type="text" name="Email" id="email" tabindex="1">
 
 ```
+
+**Adding accesskey attribute**
+
+Without using the mouse you can access different forms by using command+"letter you use in your form"
+
+```html
+<input type="text" name="Email" id="email" accesskey="E">
+```
+
 **different input types: **
 
 ```html
@@ -30,6 +39,8 @@
 <input type="password"> password
 <input type="submit"> submit button
 ```
+More input types: 
+
 
 
 **Multiple lines of text:**
