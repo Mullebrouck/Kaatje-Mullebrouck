@@ -14,6 +14,12 @@
 
 [](codepen://Kaatje/GbEyRej)
 
+**Adding tabindex attribute**
+
+```html
+<input type="text" name="Email" id="email" tabindex="1">
+
+```
 **different input types: **
 
 ```html
