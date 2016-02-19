@@ -14,6 +14,7 @@
 
 [](codepen://Kaatje/bEyRej)
 
+
 **Adding tabindex attribute**
 
 ```html
@@ -27,6 +28,44 @@ Without using the mouse you can access different forms by using command+"letter 
 
 ```html
 <input type="text" name="Email" id="email" accesskey="E">
+```
+
+**Adding a datalist** 
+
+```html
+<label for="colors">
+  What is your favorite color? 
+</label>
+<input type="text"
+       name="colors"
+       id="colors"
+       list-"colors">
+<datalist id="color">
+  <option value="red">
+  <option value="green">
+  <option value="blue">
+  <option value="yellow">
+</datalist>
+    
+```
+
+**Choosing an option out of a list** 
+
+```html
+<label for="colors">
+  What is your favorite color? 
+</label>
+<input type="text"
+       name="colors"
+       id="colors"
+       list-"colors">
+<select size="4" id="color">
+  <option value="red">
+  <option value="green">
+  <option value="blue">
+  <option value="yellow">
+</select>
+    
 ```
 
 **different input types: **
@@ -80,6 +119,17 @@ newsletter label and input are better on the same line!
 <form>
   <label for="Newsletter">Get Newsletter?</label>
   <input type="checkbox" id="Newsletter">
+</form>
+```
+
+**Adding radio-buttons**
+
+This is the same as the checkbox button, but you are only allowed to check one of the choices. 
+
+```html
+<form>
+  <label for="Newsletter">Get Newsletter?</label>
+  <input type="radio" id="Newsletter">
 </form>
 ```
 
