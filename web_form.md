@@ -12,7 +12,7 @@
 
 **Using fieldset and legend elements**
 
-[](codepen://Kaatje/GbEyRej)
+[](codepen://Kaatje/bEyRej)
 
 **Adding tabindex attribute**
 
