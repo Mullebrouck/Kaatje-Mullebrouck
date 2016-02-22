@@ -13,3 +13,15 @@ Algorithm for compress media
 - requires plug-in player
 
 `<embed>`
+
+attributes: 
+
+- src
+- height
+- type
+- width
+- bgcolor (optional)
+- quality (optional)
+- title (optional)
+- wmode (optional) = to set transparent background "transparent"
+
