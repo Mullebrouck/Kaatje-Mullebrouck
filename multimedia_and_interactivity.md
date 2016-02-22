@@ -26,3 +26,16 @@ Algorithm for compress media
 - title (optional)
 - wmode (optional) = to set transparent background "transparent"
 
+Example: 
+
+```html
+<embed 
+    type="application/x-shockwave-flash"
+    src="sourcefile.swf"
+    width="500px"
+    height="100px"
+    quality="high"
+    title="Title of file/multimedia"
+>
+```
+
