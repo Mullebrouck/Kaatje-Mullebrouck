@@ -9,7 +9,7 @@ Algorithm for compress media
 
 ##Embedded Element
 
-For example on how to use the embed element go to video element: 
+For example on how to use the embed element go to video element: https://kaatje.gitbooks.io/kaatje-mullebrouck/content/video_element.html
 
 
 - container for external content
