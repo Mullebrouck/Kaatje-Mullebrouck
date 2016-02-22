@@ -1,4 +1,4 @@
-# Video Element
+# Video Element + embedding
 
 `<video> </video>`
 
@@ -45,5 +45,17 @@ Controller for Video File:
 
 Free web converter: http://www.mirovideoconverter.com
 
+
+---
+
+#Embedding  to display flash
+
+```html
+<video controls="controls">
+    <source src="videofile.m4v" type="video/mp4 ">
+    <source src="videofile.ogv" type="video/ogg">
+    <a href="videofile.mov">Download this file</a>(.mov)
+</video>
+```
 
 
