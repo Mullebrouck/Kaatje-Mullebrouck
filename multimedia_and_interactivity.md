@@ -9,6 +9,9 @@ Algorithm for compress media
 
 ##Embedded Element
 
+For example on how to use the embed element go to video element: 
+
+
 - container for external content
 - requires plug-in player
 
