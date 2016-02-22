@@ -57,6 +57,7 @@
            * [Transforming Rotating](transforming_rotating.md)
        * [Loading-spinner](loading-spinner.md)
    * [Multimedia and Interactivity](multimedia_and_interactivity.md)
+       * Audio Element
 * [Projects](projects.md)
    * [Web Design](web_design.md)
        * [Care For Web Design](careforwebdesign.md)
