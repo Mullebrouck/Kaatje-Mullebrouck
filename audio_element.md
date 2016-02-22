@@ -26,10 +26,14 @@ self-contained, void --> specifies media file or MIME type
 with controller for audio  file
 
 ```html
-<audio controls="controls">
-    <source src="musicfile.mp3" type="audio/mpeg">
-    <source src="musicfile.ogg" type="audio/ogg">
-    <a href="musicfile.mp3">Download this file</a>(.MP3)
+<audio 
+    controls="controls" 
+    poster="musicimage.jpg"
+    width="160px"
+    height="150px">
+        <source src="musicfile.mp3" type="audio/mpeg">
+        <source src="musicfile.ogg" type="audio/ogg">
+        <a href="musicfile.mp3">Download this file</a>(.MP3)
 </audio>
 ```
 
