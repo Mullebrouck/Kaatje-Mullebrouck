@@ -29,7 +29,7 @@ with controller for audio  file
 <audio controls="controls">
     <source src="musicfile.mp3" type="audio/mpeg">
     <source src="musicfile.ogg" type="audio/ogg">
-    <a href="musicfile.mp3">Download this file</a>
+    <a href="musicfile.mp3">Download this file</a>(.MP3)
 </audio>
 ```
 
