@@ -29,11 +29,11 @@ self-contained, void --> specifies media file or MIME type
 with controller for video file
 
 ```html
-<audio controls="controls">
-    <source src="musicfile.mp3" type="audio/mpeg">
-    <source src="musicfile.ogg" type="audio/ogg">
-    <a href="musicfile.mp3">Download this file</a>
-</audio>
+<video controls="controls">
+    <source src="videofile.m4v" type="video/mp4 ">
+    <source src="videofile.ogv" type="video/ogg">
+    <a href="videofile.mov">Download this file</a>(.mov)
+</video>
 ```
 
 Controller for Audio File: 
