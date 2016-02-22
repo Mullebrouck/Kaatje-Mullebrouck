@@ -55,10 +55,20 @@ Free web converter: http://www.mirovideoconverter.com
 #Embedding  to display flash
 
 ```html
-<video controls="controls">
-    <source src="videofile.m4v" type="video/mp4 ">
-    <source src="videofile.ogv" type="video/ogg">
-    <a href="videofile.mov">Download this file</a>(.mov)
+<video 
+    controls="controls"
+    poster="musicimage.jpg"
+    width="160px"
+    height="150px">
+        <source src="videofile.m4v" type="video/mp4 ">
+        <source src="videofile.ogv" type="video/ogg">
+        <embed 
+            type="application/x-shockwave-flash"
+            src="videofile.swf"
+            quality="high"
+            width="160px"
+            height="150px"
+            title="This is my video file title">
 </video>
 ```
 
