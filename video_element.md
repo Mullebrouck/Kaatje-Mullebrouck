@@ -36,12 +36,12 @@ with controller for video file
 </video>
 ```
 
-Controller for Audio File: 
+Controller for Video File: 
 
 [](codepen://Kaatje/GobeEm)
 
 
-**Converting Audio file to OGG Vorbis Codec:**
+**Converting Video file to OGG Vorbis Codec:**
 
 http://audacity.sourceforge.net
 
