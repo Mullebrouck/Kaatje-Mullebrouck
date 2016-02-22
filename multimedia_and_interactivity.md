@@ -14,7 +14,8 @@ Algorithm for compress media
 
 `<embed>`
 
-attributes: 
+
+**Attributes:**
 
 - src
 - height
