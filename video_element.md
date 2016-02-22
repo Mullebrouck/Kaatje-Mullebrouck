@@ -54,6 +54,8 @@ Free web converter: http://www.mirovideoconverter.com
 
 #Embedding  to display flash
 
+example: 
+
 ```html
 <video 
     controls="controls"
