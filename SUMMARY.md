@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
    * [JavaScript](javascript.md)
+       * Pop Up Screens
 * [HTML & CSS](html_&_css.md)
    * [HTML](html.md)
        * [Setting up HTML file](setting_up_html_file.md)
