@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [JavaScript](javascript.md)
+   * [Pop Up Screens](pop_up_screens.md)
 * [HTML & CSS](html_&_css.md)
    * [HTML](html.md)
        * [Setting up HTML file](setting_up_html_file.md)
@@ -79,8 +81,6 @@
    * [Vagrant](vagrant.md)
    * [Git](git.md)
    * [React](react.md)
-* [JavaScript](javascript.md)
-   * [Pop Up Screens](pop_up_screens.md)
 * [Web Design Foundations](web_design_foundations.md)
    * [Website Organization](website_organization.md)
    * [Principles of Visual Design](principles_of_visual_design.md)
