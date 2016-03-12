@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * JavaScript
+   * [JavaScript](javascript.md)
 * [HTML & CSS](html_&_css.md)
    * [HTML](html.md)
        * [Setting up HTML file](setting_up_html_file.md)
