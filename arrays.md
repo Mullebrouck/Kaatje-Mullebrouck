@@ -54,3 +54,16 @@ list.push("10");
 
 var list = [1, 2, 3, 4, 5, 6, 7, 8, 10];
 ```
+
+###Calling positions in several arrays
+
+```js
+var list = [1, 2, 3, 4, 5];
+var newlist = [6, 7, 8, 9];
+var listingPosition = [list, newlist];
+```
+We want to create a new variable "position" that is storing number 9
+
+```js
+var position = listingPosition[1][3];
+```
