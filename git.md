@@ -23,4 +23,11 @@ udacity git:(master) ✗ diff -u game_new.js game_old.js
 
 
 
+### Open Atom form Terminal
+
+type: 
+<br>
+atom .
+
+
 
