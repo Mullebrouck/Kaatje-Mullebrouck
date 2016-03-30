@@ -44,6 +44,22 @@ atom .
   **go to reflections directory**
   - atom . lesson_1_reflections.txt:
   **launch sublime with file called lesson_1_reflections.txt**
+  
+  
+### Cloning Repository
+
+- git clone (url repository)
+
+
+### Getting colored output
+
+- git config --global color.ui auto
+
+
+
+
+
+
 
 
 
