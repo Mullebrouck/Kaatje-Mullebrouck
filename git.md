@@ -30,4 +30,22 @@ type:
 atom .
 
 
+### Creating new directory 
+
+  - cd ~:
+  ** change directories to your home directory** <br>
+  - mkdir version-control:
+  **make version-control directory**<br>
+  - cd version-control:
+  **go to version-control directory**
+  - mkdir reflections:
+  **create reflections directory**
+  - cd reflections: 
+  **go to reflections directory**
+  - atom . lesson_1_reflections.txt:
+  **launch sublime with file called lesson_1_reflections.txt**
+
+
+
+
 
