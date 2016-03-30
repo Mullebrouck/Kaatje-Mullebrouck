@@ -10,3 +10,17 @@ To do so:
 2. Go to:Branch:master
 3. write new branch name
 4. click create branch:name of new branch
+
+
+### Searching for differences between files
+
+make sure you go to the folder where the files are in and type: 
+**diff -u filename filename**
+
+example: 
+<br>
+udacity git:(master) ✗ diff -u game_new.js game_old.js
+
+
+
+
