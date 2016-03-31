@@ -29,7 +29,7 @@ or between two commit id's:
 
 Type: 
 <br>
-git checkout
+git checkout commitID
 
 
 
