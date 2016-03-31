@@ -21,9 +21,20 @@ example:
 <br>
 udacity git:(master) ✗ diff -u game_new.js game_old.js
 
+or between two commit id's: 
+**git diff commitID commitID**
 
 
-### Open Atom form Terminal
+### Checking out prior commit
+
+Type: 
+<br>
+git checkout
+
+
+
+
+### Open Atom from Terminal
 
 type: 
 <br>
