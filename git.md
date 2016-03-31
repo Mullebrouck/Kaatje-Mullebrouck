@@ -65,6 +65,30 @@ or between two commit id's:
 - ls -a
 
 
+### Creating new Repository
+
+- git init
+- git log (see what commits you have) --> Gives "HEAD" message (ERROR)
+- git status (Shows what files are changed)
+
+
+### How to choose what to commit
+
+- git status
+- git add FILENAME
+- git status (To check)
+
+
+### Addng Commit message
+
+- git commit (You can type longer messages)
+- git commit -m "Commit message" (Short message)
+
+
+
+
+
+
 
 
 
