@@ -27,18 +27,11 @@ or between two commit id's:
 
 ### Checking out prior commit
 
-Type: 
-<br>
-git checkout commitID
-
-
-
+- git checkout commitID
 
 ### Open Atom from Terminal
 
-type: 
-<br>
-atom .
+- atom .
 
 
 ### Creating new directory 
@@ -65,6 +58,13 @@ atom .
 ### Getting colored output
 
 - git config --global color.ui auto
+
+
+### Seeing hidden files
+
+- ls -a
+
+
 
 
 
