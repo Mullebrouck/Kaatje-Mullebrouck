@@ -79,10 +79,52 @@ or between two commit id's:
 - git status (To check)
 
 
-### Addng Commit message
+### Adding Commit message
 
-- git commit (You can type longer messages)
+- git commit (You can type longer messages): 
+
+&nbsp; &nbsp; &nbsp; 1. Type message<br>
+&nbsp; &nbsp; &nbsp; 2. esc <br>
+&nbsp; &nbsp; &nbsp; 3. :w (to write)<br>
+&nbsp; &nbsp; &nbsp; 4. q (Go back to screen)
+
+
 - git commit -m "Commit message" (Short message)
+
+
+### See updated changes 
+
+- git diff --staged
+
+
+### To discard any changes 
+
+- git reset --hard (not reversible)
+
+
+
+## Branches
+
+master = main branch
+
+
+### Making branch
+
+- git branch ( shows branches you have )
+- git branch NameNewBranch
+- git branch ( shows branches + one you just created )
+- git checkout NameNewBranch (So you go into your new branch)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
