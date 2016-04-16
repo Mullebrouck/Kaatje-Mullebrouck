@@ -6,7 +6,7 @@
    * [Arrays](arrays.md)
    * [Truth & False values](truth_&_false_values.md)
    * [Strings](strings.md)
-   * Objects
+   * [Objects](objects.md)
 * [HTML & CSS](html_&_css.md)
    * [HTML](html.md)
        * [Setting up HTML file](setting_up_html_file.md)
