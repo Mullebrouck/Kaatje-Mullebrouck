@@ -4,6 +4,7 @@
 * [JavaScript](javascript.md)
    * [Pop Up Screens](pop_up_screens.md)
    * [Arrays](arrays.md)
+   * Truth & False values
 * [HTML & CSS](html_&_css.md)
    * [HTML](html.md)
        * [Setting up HTML file](setting_up_html_file.md)
