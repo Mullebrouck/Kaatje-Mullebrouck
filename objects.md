@@ -8,4 +8,5 @@ Declaring and defining (No classes in JavaScript, only objects)
 
 var myObj = { };
 
-myObj.property = some value 
+myObj.property = some value;
+myObj["property"] = some value;
