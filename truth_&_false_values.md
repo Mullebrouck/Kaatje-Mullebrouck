@@ -5,8 +5,8 @@
 - true
 - non-zero numbers
 - "strings"
-- objects
-- arrays
+- objects --> {}
+- arrays --> []
 - functions
 
 
