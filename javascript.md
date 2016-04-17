@@ -1,7 +1,7 @@
 # JavaScript
 
 
-### if conditions
+### if statement
 
 **Notation**
 
