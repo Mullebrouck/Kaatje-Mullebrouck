@@ -1,5 +1,14 @@
 # JavaScript
 
+##Terminology
+
+- parentheses ()
+- brackets []
+- braces {}
+
+
+##Conditional Code
+
 
 ### if statement
 
