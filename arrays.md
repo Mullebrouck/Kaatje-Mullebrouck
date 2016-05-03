@@ -149,3 +149,19 @@ console.log(result);
 ```
 --> [10, 20, 30, 40, 50, 60, 70, 80, 90]
 
+## 2D arrays
+
+```js
+var list = [ [3,5] , [4, 5] ];
+```
+
+
+## jagged arrays (unequal array)
+
+```js
+var list = [ [3,4,5] , [4], [7,8] ];
+```
+
+
+
+
