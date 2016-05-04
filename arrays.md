@@ -49,6 +49,24 @@ list[1] = "2"
 var list = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 ```
 
+### reversing information in array
+
+
+
+example: 
+
+```js
+var list = [1, 10, 3, 4, 5, 6, 7, 8, 9]; 
+```
+//using .reverse(); will reverse the array
+
+```js
+var list = [1, 10, 3, 4, 5, 6, 7, 8, 9];
+var reverseList = list.reverse(); 
+console.log(reverseList);
+```
+
+
 ### Deleting last position in array
 
 ```js
