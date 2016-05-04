@@ -27,8 +27,11 @@ myObj["property"] = some value;
 ```
 --> Tells you we are creating a new object
 
+## How to add object in array
 
-
-myObj.property = some value;
-
-myObj["property"] = some value;
+```js
+var newArray = [
+    [1, 3], 
+    [info = { name: "kaatje", age: 30}]
+    ];
+```
