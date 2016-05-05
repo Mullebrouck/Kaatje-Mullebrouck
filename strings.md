@@ -1,15 +1,38 @@
-# Strings
+# String Manipulation
 
+### .toUpperCase(); 
 
-### String Manipulation
+```js
+var sentence = "Example of a string."
+var upperCase = sentence.toUpperCase();  // EXAMPLE OF A STRING.
+```
 
-- varName.**toUpperCase();**
-- varName.**toLowerCase();**
-- varName.**split(" ");**
-<br> --> splits the words in the string, need space in order to work
-- varName.**slice(begin, END(optional));**
-- varName.**join(" ");**
-<br> -->brings string back together, need space in order to work
+### .toLowerCase(); 
 
+```js
+var sentence = "ExaMPle of a StriNg."
+var lowerCase = sentence.toLowerCase(); // example of a string.
+```
 
+### .split(); 
+
+```js
+var sentence = "Example of a string."
+var words = sentence.split(" "); // ["Example", "of", "a", "string."]
+```
+--> Needs a space (" ") in order for it to work. Because it shows you where the string should split up, in this case after the space. (This could be a comma, ...)
+
+### .slice(); 
+
+```js
+var sentence = "Example of a string."
+var word = sentence.slice(3, 8); // mple 
+```
+
+### .indexOf(); 
+
+```js
+var sentence = "Example of a string."
+var position = sentence.indexOf("string"); // 13 
+```
 
