@@ -44,3 +44,23 @@ var newArray = [
     [info = { name: "kaatje", age: 30}]
     ];
 ```
+
+## Example of Objects with THIS.
+
+```js
+//creating 2 objects
+var player1 = {name: "Tommy", age: 16, sport: "Baseball"};
+var player2 = {name: "James", age: 15, sport: "Soccer"};
+
+function playerDetails(){
+  //Display information about each player! Use this.
+  console.log(this.name + "favorite sport is " + this.sport + "and is " + this.age + " years old."); 
+}
+
+player1.logDetails = playerDetails; 
+player2.logDetails = playerDetails; 
+
+player1.logDetails();
+player2.logDetails();
+
+```
