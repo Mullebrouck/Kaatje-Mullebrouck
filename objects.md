@@ -1,5 +1,7 @@
 # Objects
 
+= container for information
+
 Declaring and defining (No classes in JavaScript, only objects)
 
 
@@ -15,6 +17,12 @@ var myObject = {
   key: value
 };
 ```
+or shorter notation: 
+
+```js
+var myObject = {key: value, key: value, key: value, ...};
+```
+
 **Constructor Notation**
 
 ```js 
@@ -26,6 +34,7 @@ myObj.property = some value;
 myObj["property"] = some value;
 ```
 --> Tells you we are creating a new object
+
 
 ## How to add object in array
 
