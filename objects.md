@@ -54,7 +54,7 @@ var player2 = {name: "James", age: 15, sport: "Soccer"};
 
 function playerDetails(){
   //Display information about each player! Use this.
-  console.log(this.name + "favorite sport is " + this.sport + "and is " + this.age + " years old."); 
+  console.log(this.name + " favorite sport is " + this.sport + " and is " + this.age + " years old."); 
 }
 
 player1.logDetails = playerDetails; 
