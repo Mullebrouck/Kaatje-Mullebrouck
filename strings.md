@@ -36,3 +36,11 @@ var sentence = "Example of a string."
 var position = sentence.indexOf("string"); // 13 
 ```
 
+### charAt() ; 
+
+Returning letter in string
+
+```js
+var sentence = "Example of a string."
+var position = sentence.charAt(4); // p
+```
