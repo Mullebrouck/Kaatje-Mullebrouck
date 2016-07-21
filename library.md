@@ -1,5 +1,7 @@
 # Library
 
+- when writing custom methods we use a underscore to distinguish them.
+
 
 ### Display Current Time
 
