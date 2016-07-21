@@ -69,10 +69,10 @@ class CommentBox extends React.Component {
         <h2>Comments</h2>
         <h4 className='comment-count'>4 comments</h4>
         <div className='comment-list'>
-          <comment/>
-          <comment/>
-          <comment/>
-          <comment/>
+          <comment author="" body=""/>
+          <comment author="" body=""/>
+          <comment author="" body=""/>
+          <comment author="" body=""/>
         </div>
       </div>
     );
@@ -81,3 +81,20 @@ class CommentBox extends React.Component {
 ```
 
 The problem here is that all the comments will look the same, so we have to add arguments (called props in React).
+
+```js
+class Comment extends React.Component {
+  render() {
+    return (
+      <div className='comment'>
+        <p className='comment-header'>{this.props.author}</p>
+        <p className='comment-body'>{this.props.body}</p>
+        <div className='comment-footer'>
+          <a href='#' className='delete-comment'>
+            Delete Comment
+          </a>
+        </div>
+      </div>
+    );
+  }
+}
