@@ -4,6 +4,7 @@
 * React
    * [Project Folder](project_folder.md)
    * [Creating Components](creating_components.md)
+   * Library
 * [JavaScript](javascript.md)
    * [Pop Up Screens](pop_up_screens.md)
    * [Arrays](arrays.md)
