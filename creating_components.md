@@ -29,6 +29,9 @@ ReactDOM.render(
 - **getElementById** --> Target container where component will be rendered to. <br>
 
 
+---
+
+
 
 **index.html**
 
