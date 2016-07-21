@@ -1,7 +1,7 @@
 # Creating Components
 
 
-**components.JS**
+**components.js**
 ```js
 class StoryBox extends React.Component {
   render() {
@@ -10,9 +10,17 @@ class StoryBox extends React.Component {
       );
   }
 }
+
+ReactDOM.render(
+  < StoryBox /> , document.getElementById("story-app") 
+);
+
 ```
-``StoryBox`` --> components are written in upper Camel Case
-``React.Components`` --> Inherits from the React Base class
-``render ()`` --> Every component will need a ``render()`` function
-``<div>`` --> html elements will always be in lowercase + No quotes are needed. ****
+``StoryBox`` --> components are written in upper Camel Case <br>
+``React.Components`` --> Inherits from the React Base class<br>
+``render ()`` --> Every component will need a ``render()`` function<br>
+``<div>`` --> html elements will always be in lowercase + No quotes are needed. <br>
+``< StoryBox /> `` --> invokes the class StoryBox <br>
+``getElementById`` --> Target container where component will be rendered to. <br>
+
 
