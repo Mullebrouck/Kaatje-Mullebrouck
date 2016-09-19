@@ -5,7 +5,6 @@
    * [Project Folder](project_folder.md)
    * [Creating Components](creating_components.md)
    * [Library](library.md)
-   * [Transforming html into react.js](transforming_html_into_reactjs.md)
 * [JavaScript](javascript.md)
    * [Pop Up Screens](pop_up_screens.md)
    * [Arrays](arrays.md)
