@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * React
-   * Getting Started
+   * [Getting Started](getting_started.md)
 * [JavaScript](javascript.md)
    * [Pop Up Screens](pop_up_screens.md)
    * [Arrays](arrays.md)
