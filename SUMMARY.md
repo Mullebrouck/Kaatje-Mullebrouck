@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * React
-   * [Project Folder](project_folder.md)
 * [JavaScript](javascript.md)
    * [Pop Up Screens](pop_up_screens.md)
    * [Arrays](arrays.md)
