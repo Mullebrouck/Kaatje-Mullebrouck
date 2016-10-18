@@ -12,7 +12,7 @@
        * [Math object](math_object.md)
    * [Methods](methods.md)
        * [Date method](date_method.md)
-   * Summary
+   * [Summary](summary.md)
 * [HTML & CSS](html_&_css.md)
    * [HTML](html.md)
        * [Setting up HTML file](setting_up_html_file.md)
